@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
+#EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg", 1 AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg" group-title="NACIONALES", 2 LAS ESTRELLAS MX
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg", AZTECA UNO
 http://181.78.105.146:2000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg" group-title="NACIONALES", LAS ESTRELLAS MX
@@ -224,6 +228,12 @@ http://190.61.106.107:8000/play/a03f/index.m3u8
 http://181.78.105.146:2000/play/a08h/index.m3u8
 #EXTINF:1  group-title="MUSICA" tvg-id="AzClic.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/17327152.jpg", AZ CLIC HD
 http://190.61.106.107:8000/play/a02p/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX SPORTS
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183750.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg", FOX SPORTS 2
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50751.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg", FOX SPORTS 3
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/37307.m3u8
 #EXTINF:1  group-title="NOTICIAS" tvg-id="704dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901376.jpg", CNN ESP
 http://190.61.106.107:8000/play/a024/index.m3u8
 #EXTINF:1  group-title="NOTICIAS" tvg-id="BBCWorldNewsLatinAmerica.uk" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425406-8c.png", BBC
