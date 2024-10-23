@@ -3,18 +3,26 @@
 
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg", 1 AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg" group-title="NACIONALES", 2 LAS ESTRELLAS MX
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg", AZTECA UNO
 http://181.78.105.146:2000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg" group-title="NACIONALES", LAS ESTRELLAS MX
-http://181.13.173.86:8000/play/a06z/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="LasEstrellas.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg", 2 LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="LasEstrellas.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg", LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="LasEstrellas.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg", LAS ESTRELLAS (-1h)
+http://190.60.38.114:1010/play/a08k/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento", 3 Imagen TV+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento", 3 Imagen TV+ (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg", CANAL 5
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg", AZTECA 7
-http://181.78.105.146:2000/play/a00i/index.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg", AZTECA 7 OPC2
 http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/2000_62422e9799a05.png" group-title="Mexico", Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Variedades", Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Clic450x300.png" group-title="Variedades", Azteca Clic
@@ -46,6 +54,8 @@ http://190.61.106.107:8000/play/a02e/index.m3u8
 http://181.78.105.146:2000/play/a04f/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="34dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png", CARTOONITO
 http://190.61.106.107:8000/play/a01n/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="de-pelicula.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg", DE PELICULA
+http://190.60.38.114:1010/play/a08f/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="503dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665437.jpg", GOLDEN
 http://190.61.106.107:8000/play/a01d/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="503dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", GOLDEN PREMIER HD
@@ -78,10 +88,10 @@ http://190.61.106.107:8000/play/a02h/index.m3u8
 http://190.61.106.107:8000/play/a04w/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="507dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/7923674.jpg", CINECANAL HD
 http://181.13.173.86:8000/play/a07b/index.m3u8
-#EXTINF:1  group-title="CINE" tvg-id="1509dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg", CINEMAX
-http://181.13.173.86:8000/play/a0aa/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="1509dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg", CINEMAX HD
 http://190.61.106.107:8000/play/a04u/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="1509dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg", CINEMAX
+http://181.13.173.86:8000/play/a0aa/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="510dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png", PARAMOUNT NETWORK
 http://190.61.106.107:8000/play/a00m/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="axn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png", AXN
@@ -167,6 +177,12 @@ http://190.61.106.107:8000/play/a056/index.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX DEPORTES 1
 http://181.78.105.146:2000/play/a093/index.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX SPORTS
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183750.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg", FOX SPORTS 2
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50751.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg", FOX SPORTS 3
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/37307.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX SPORTS
 http://181.13.173.86:8000/play/a07j/index.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg", FOX SPORTS 2
 http://181.13.173.86:8000/play/a0ai/index.m3u8
@@ -228,12 +244,6 @@ http://190.61.106.107:8000/play/a03f/index.m3u8
 http://181.78.105.146:2000/play/a08h/index.m3u8
 #EXTINF:1  group-title="MUSICA" tvg-id="AzClic.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/17327152.jpg", AZ CLIC HD
 http://190.61.106.107:8000/play/a02p/index.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX SPORTS
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183750.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg", FOX SPORTS 2
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50751.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg", FOX SPORTS 3
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/37307.m3u8
 #EXTINF:1  group-title="NOTICIAS" tvg-id="704dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901376.jpg", CNN ESP
 http://190.61.106.107:8000/play/a024/index.m3u8
 #EXTINF:1  group-title="NOTICIAS" tvg-id="BBCWorldNewsLatinAmerica.uk" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425406-8c.png", BBC
