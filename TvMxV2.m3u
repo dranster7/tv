@@ -14,9 +14,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento", 103 Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg", 105 CANAL 5
-http://181.78.105.146:2000/play/a038/index.m3u8
+http://181.78.105.146:2000/play/a038
+#EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg", 105 CANAL 5 HD
+http://181.78.106.127:9000/play/ca012
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg", 107 AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg", 107 AZTECA 7
+http://181.78.109.49:8000/play/a06h
 #EXTINF:-1 group-title="NACIONALES" tvg-id="elnu9ve.mx" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/2000_62422e9799a05.png" group-title="Mexico", 109 Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="az-corazon.mx" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Variedades", Azteca Corazon
@@ -45,7 +49,9 @@ http://170.83.242.9:4000/play/a02s
 #EXTINF:1  group-title="INFANTILES" tvg-id="312dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png", DISNEY CHANNEL
 http://170.83.242.9:4000/play/a00n
 #EXTINF:1  group-title="INFANTILES" tvg-id="528" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png", CARTOONITO
-http://45.181.123.233:8000/play/a0n4
+http://186.148.195.206:8000/play/a07f
+#EXTINF:1  group-title="CINE" tvg-id="de-pelicula.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg", DE PELICULA
+http://190.109.4.34:8000/play/a08z
 #EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg", TNT
 http://170.83.242.9:4000/play/a03b
 #EXTINF:1  group-title="CINE" tvg-id="502dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg", TNT HD
@@ -129,7 +135,11 @@ http://170.83.242.9:4000/play/a10l
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX DEPORTES 1
 http://181.78.105.146:2000/play/a093/index.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX SPORTS
+http://200.115.96.66:4000/play/a0jx
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX SPORTS
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183750.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg", FOX SPORTS 2
+http://181.209.159.245:8000/play/fox2
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg", FOX SPORTS 2
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50751.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg", FOX SPORTS 3
@@ -139,7 +149,10 @@ http://170.83.242.9:4000/play/a10d
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg", FOX SPORTS 3
 http://170.83.242.9:4000/play/a10m
 #EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
+http://181.78.106.127:9000/play/ca025
+http://170.83.242.9:4000/play/a10m
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", TUDN
+http://190.61.116.50:9000/play/a08l
 #EXTINF:1  group-title="CULTURALES" tvg-id="discoverychannel.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png", DISCOVERY CHANNE HD
 http://170.83.242.9:4000/play/a00o
 #EXTINF:1  group-title="CULTURALES" tvg-id="742dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/19233379.jpg", HISTORY
