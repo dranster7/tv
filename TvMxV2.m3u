@@ -134,8 +134,6 @@ http://170.83.242.9:4000/play/a02u
 http://170.83.242.9:4000/play/a12v
 #EXTINF:1  group-title="DEPORTES" tvg-id="espn-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg", ESPN 3 HD
 http://170.83.242.9:4000/play/a10l
-#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX DEPORTES 1
-http://181.78.105.146:2000/play/a093/index.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX SPORTS
 http://200.115.96.66:4000/play/a0jx
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", FOX SPORTS
