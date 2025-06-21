@@ -33,6 +33,8 @@ http://200.115.96.66:4000/play/a0jx/index.m3u8
 http://181.78.106.127:9000/play/ca032/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes",166 Fox Deportes en Tubi
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes",166 Fox Deportes en Tubi
+https://aegis-fastly.tubi.video/dfae948f-82c1-4c9a-80d4-223265b74564/playlist576p.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",167 TUDN
 http://190.61.116.50:9000/play/a08l
 #EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",167 TUDN
