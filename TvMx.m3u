@@ -26,15 +26,15 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",12 Milenio MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0 tvg-id="FoxSports.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",161 FOX SPORTS (MX)
-http://190.83.2.178:8011/play/a028/index.m3u8
+http://200.115.96.66:4000/play/a0jx/index.m3u8
 #EXTINF:0 tvg-id="FoxSports.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",161 FOX SPORTS (MX)
 http://200.115.96.66:4000/play/a0jx/index.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg",164 FOX SPORTS 2
 http://181.78.106.127:9000/play/ca032/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",164 FOX SPORTS 2 MX
+http://200.229.147.142:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes",166 Fox Deportes en Tubi
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes",166 Fox Deportes en Tubi
-https://aegis-fastly.tubi.video/dfae948f-82c1-4c9a-80d4-223265b74564/playlist576p.m3u8
+https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",167 TUDN
 http://190.61.116.50:9000/play/a08l
 #EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",167 TUDN
@@ -765,3 +765,4 @@ http://38.44.109.41:8003/play/a03n/index.m3u8
 http://38.44.109.41:8003/play/a032/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",381  ZooMoo
 http://38.44.109.41:8003/play/a025/index.m3u8
+
