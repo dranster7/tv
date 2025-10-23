@@ -26,12 +26,12 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",12 Milenio MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0 tvg-id="FoxSports.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",161 FOX SPORTS (MX)
-http://200.115.96.66:4000/play/a0jx/index.m3u8
+http://200.229.147.142:8000/play/a06a/index.m3u8
 #EXTINF:0 tvg-id="FoxSports.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",161 FOX SPORTS (MX)
 http://200.115.96.66:4000/play/a0jx/index.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg",164 FOX SPORTS 2
 http://181.78.106.127:9000/play/ca032/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",164 FOX SPORTS 2 MX
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",16 FOX SPORTS 2 MX
 http://200.229.147.142:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes",166 Fox Deportes en Tubi
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
@@ -39,173 +39,29 @@ https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playl
 http://190.61.116.50:9000/play/a08l
 #EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",167 TUDN
 http://181.78.106.127:9000/play/ca025
-#EXTINF:1  group-title="CULTURALES" tvg-id="animalplanet.mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png",204 ANIMAL PLANET
-http://190.216.158.199:8000/play/a00h/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",20 BABY TV 
-http://190.216.158.199:8000/play/a00f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",21 BOLIVISION 
-http://190.216.158.199:8000/play/a01j/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",22 CANAL TRO
-http://190.216.158.199:8000/play/a02z/index.m3u8
-#EXTINF:1  group-title="INFANTILES" tvg-id="529" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901546.jpg",27 CARTOON NETWORK
-http://190.216.158.199:8000/play/a00j/index.m3u8
-#EXTINF:1  group-title="INFANTILES" tvg-id="528" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png",44 CARTOONITO
-http://190.216.158.199:8000/play/a00b/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",25 CINE MEXICANO 
-http://190.216.158.199:8000/play/a00p/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",26 CITY TV HD COLOMBIA
-http://190.216.158.199:8000/play/a02g/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",27 CNC
-http://190.216.158.199:8000/play/a02o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",28 DPELICULA
-http://190.216.158.199:8000/play/a02r/index.m3u8
-#EXTINF:1  group-title="CULTURALES" tvg-id="discoverychannel.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png",183 DISCOVERY CHANNEL
-http://190.216.158.199:8000/play/a00o/index.m3u8
-#EXTINF:1  group-title="INFANTILES" tvg-id="330dtv.co" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png",21 DISCOVERY KIDS
-http://190.216.158.199:8000/play/a00r/index.m3u8
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg",222 DISTRITO COMEDIA SD
-http://190.216.158.199:8000/play/a02q/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",32 ENLACE
-http://190.216.158.199:8000/play/a02h/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",33 ESPN 1
-http://190.216.158.199:8000/play/a02l/index.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="espn-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",152 ESPN 2
-http://190.216.158.199:8000/play/a036/index.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="espn-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",156 ESPN 3
-http://190.216.158.199:8000/play/a035/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",6 CANAL DE LAS ESTRELLAS HD
-http://190.216.158.199:8000/play/a02s/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",37 EURONEWS
-http://190.216.158.199:8000/play/a02f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",38 EUROCHANNEL
-http://190.216.158.199:8000/play/a02e/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",39 EWTN 
-http://190.216.158.199:8000/play/a00y/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",40 FILM & ARTS
-http://190.216.158.199:8000/play/a02p/index.m3u8
-#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665570.jpg",95 GOLDEN EDGE
-http://190.216.158.199:8000/play/a00n/index.m3u8
-#EXTINF:0 tvg-id="Golden.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665437.jpg",93 GOLDEN
-http://190.216.158.199:8000/play/a00s/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",43 HOGAR TV
-http://190.216.158.199:8000/play/a01o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",44 LA KALLE
-http://190.216.158.199:8000/play/a02c/index.m3u8
-#EXTINF:1  group-title="INFANTILES" tvg-id="309dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901545.jpg",35 NICK JR
-http://190.216.158.199:8000/play/a00a/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",46 QUIERO TV MX
-http://190.216.158.199:8000/play/a010/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",47 13 INTERNACIONAL
-http://190.216.158.199:8000/play/a01c/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",48 PANAMERICANA
-http://190.216.158.199:8000/play/a01v/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",49 PANICO HD
-http://190.216.158.199:8000/play/a01h/index.m3u8
-#EXTINF:1  group-title="CINE" tvg-id="510dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png",69 PARAMOUNT NETWORK
-http://190.216.158.199:8000/play/a00d/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",51 POP CORN CENTRAL
-http://190.216.158.199:8000/play/a027/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",52 RCN
-http://190.216.158.199:8000/play/a003/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",53 RCN HD2
-http://190.216.158.199:8000/play/a023/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",54 RUMBATV
-http://190.216.158.199:8000/play/a021/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",55 SEÑAL COLOMBIA 
-http://190.216.158.199:8000/play/a00z/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",56 SONY CHANNEL
-http://190.216.158.199:8000/play/a00k/index.m3u8
-#EXTINF:1  group-title="CINE" tvg-id="518dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",54 SPACE HD
-http://190.216.158.199:8000/play/a01r/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",58 TRACE SPORT STARTS
-http://190.216.158.199:8000/play/a01z/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",59 SUR TV
-http://190.216.158.199:8000/play/a02k/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",60 USA
-http://190.216.158.199:8000/play/a00g/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",61 TELE ANTIOQUIA 
-http://190.216.158.199:8000/play/a01u/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",62 TELE CAFE
-http://190.216.158.199:8000/play/a033/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",63 TELE PACIFICO 
-http://190.216.158.199:8000/play/a034/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",64 TELEAMIGA
-http://190.216.158.199:8000/play/a02d/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",65 TELEANTILLA
-http://190.216.158.199:8000/play/a01q/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",66 TELECARIBE
-http://190.216.158.199:8000/play/a013/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",67 TELEISLAS
-http://190.216.158.199:8000/play/a01l/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",68 TELEMICRO
-http://190.216.158.199:8000/play/a029/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="231dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png",147 TELEMUNDO
-http://190.216.158.199:8000/play/a00e/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",70 TELENOSTALGIA
-http://190.216.158.199:8000/play/a022/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="tlnovelas.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12531651.jpg",136 TL NOVELAS
-http://190.216.158.199:8000/play/a00q/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",72 TELERITMO
-http://190.216.158.199:8000/play/a024/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",73 TELEVIDA
-http://190.216.158.199:8000/play/a01n/index.m3u8
-#EXTINF:1  group-title="CINE" tvg-id="502dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",49 TNT HD
-http://190.216.158.199:8000/play/a02j/index.m3u8
-#EXTINF:0 tvg-id="TNTSerie.br" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg",135 TNT SERIES HD
-http://190.216.158.199:8000/play/a00l/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",76 TV AGRO 
-http://190.216.158.199:8000/play/a020/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",77 TYC SPORTS
-http://190.216.158.199:8000/play/a01g/index.m3u8
-#EXTINF:1  group-title="CINE" tvg-id="508dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",62 STUDIO UNIVERSAL
-http://190.216.158.199:8000/play/a02m/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",79 UNIVISION 
-http://190.216.158.199:8000/play/a00c/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",80 VIDEO ROLA 
-http://190.216.158.199:8000/play/a02i/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1206dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10640425.jpg",81 WARNER
-http://190.216.158.199:8000/play/a00m/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",82 WILLAX
-http://190.216.158.199:8000/play/a01f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",83 ZOOMOO
-http://190.216.158.199:8000/play/a02b/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",84  ABC 
-http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",85  NBC
-http://143.244.60.30/NBC_EAST/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",86  TBS
-http://143.244.60.30/TBS/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",87  TCM USA
-http://143.244.60.30/TCM/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",88  NICK USA
-http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",89  Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",90 3ABN
-http://200.229.147.142:8000/play/a07r/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",91 A&E HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",20A&E HD
 http://200.229.147.142:8000/play/a01x/index.m3u8
 #EXTINF:0 tvg-id="AMC.uk" group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",61 AMC HD
 http://200.229.147.142:8000/play/a01y/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",93 AXN HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",22AXN HD
 http://200.229.147.142:8000/play/a027/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",94 AZTECA CINEMA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",23AZTECA CINEMA
 http://200.229.147.142:8000/play/a06u/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",95 AZTECA DEPORTES 
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",24AZTECA DEPORTES 
 http://200.229.147.142:8000/play/a06s/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",96 AZTECA HONDURAS
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",25AZTECA HONDURAS
 http://200.229.147.142:8000/play/a06h/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",97 AZTECA CLIC HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",26AZTECA CLIC HD
 http://200.229.147.142:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2022/azteca_uno.png" group-title="Variedades",18 Azteca Uno -1h
 http://200.229.147.142:8000/play/a07d/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",99 Adult Swim
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",28Adult Swim
 http://200.229.147.142:8000/play/a00i/index.m3u8
 #EXTINF:1  group-title="CULTURALES" tvg-id="animalplanet.mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png",206 ANIMAL PLANET HD
 http://200.229.147.142:8000/play/a01u/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",101 Antena 3
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",30Antena 3
 http://200.229.147.142:8000/play/a005/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",102 Atres Series
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",31Atres Series
 http://200.229.147.142:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-id="az-corazon.mx" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Variedades",14 Azteca Corazon
 http://200.229.147.142:8000/play/a017/index.m3u8
@@ -213,161 +69,163 @@ http://200.229.147.142:8000/play/a017/index.m3u8
 http://200.229.147.142:8000/play/a030/index.m3u8
 #EXTINF:0 tvg-id="Bandamax.mx" group-title="MUSICALES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12251440.jpg",225 BANDAMAX
 http://200.229.147.142:8000/play/a07b/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",106 BBC News
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",35BBC News
 http://200.229.147.142:8000/play/a01k/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",107 BUNDESLIGA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",36BUNDESLIGA
 http://200.229.147.142:8000/play/a05b/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="babyfirst.cl" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/BABYFIRST/EXPORTACION_WEB/SS/BABYFIRST_t-290x163.png",30 BABY FIRST
 http://200.229.147.142:8000/play/a02a/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="1317dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11006189.jpg",32 BABY TV
 http://200.229.147.142:8000/play/a002/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",110 BITME 
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",39BITME 
 http://200.229.147.142:8000/play/a07s/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",111 CANAL 11 HN
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",40CANAL 11 HN
 http://200.229.147.142:8000/play/a07h/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",112 CANAL 12
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",41CANAL 12
 http://200.229.147.142:8000/play/a06w/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",8 CANAL 5 HD
 http://200.229.147.142:8000/play/a05a/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",114 CANAL CHOLOMA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",43CANAL CHOLOMA
 http://200.229.147.142:8000/play/a05j/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="529" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901546.jpg",28 CARTOON NETWORK HD
 http://200.229.147.142:8000/play/a00p/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",116 CERTV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",45CERTV
 http://200.229.147.142:8000/play/a03x/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",117 CHOLUTSASUR SRT
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",46CHOLUTSASUR SRT
 http://200.229.147.142:8000/play/a068/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",118 CINECANAL HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",47CINECANAL HD
 http://200.229.147.142:8000/play/a03g/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",119 CNN Internacional
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",48CNN Internacional
 http://200.229.147.142:8000/play/a00c/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",120 CNNE
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",49CNNE
 http://200.229.147.142:8000/play/a01j/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",121 CVS sur
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",50CVS sur
 http://200.229.147.142:8000/play/a05m/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",122 Canal 11 - GUA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",51Canal 11 - GUA
 http://200.229.147.142:8000/play/a029/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",123 Canal 11 - HON
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",52Canal 11 - HON
 http://200.229.147.142:8000/play/a00x/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",124 Canal 13-GUA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",53Canal 13-GUA
 http://200.229.147.142:8000/play/a028/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",125 Canal 3 - GUA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",54Canal 3 - GUA
 http://200.229.147.142:8000/play/a02w/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",126 Canal 5 HON
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",55Canal 5 HON
 http://200.229.147.142:8000/play/a02x/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",127 Canal 6 SV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",56Canal 6 SV
 http://200.229.147.142:8000/play/a05o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",128 Canal 7 GUA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",57Canal 7 GUA
 http://200.229.147.142:8000/play/a02v/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",129 Canal 8 TNH HN
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",58Canal 8 TNH HN
 http://200.229.147.142:8000/play/a04e/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",130 Canal Antigua - GUA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",59Canal Antigua - GUA
 http://200.229.147.142:8000/play/a02t/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",131 Canal Azteca - GUA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",60Canal Azteca - GUA
 http://200.229.147.142:8000/play/a02u/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",132 Canal VTV HND
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",61Canal VTV HND
 http://200.229.147.142:8000/play/a041/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="528" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png",44 CARTOONITO
 http://200.229.147.142:8000/play/a011/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",134 Cine Familiar
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",63Cine Familiar
 http://200.229.147.142:8000/play/a07v/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",135 Cine Hispano 
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",64Cine Hispano 
 http://200.229.147.142:8000/play/a07x/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",136 Cine Latino
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",65Cine Latino
 http://200.229.147.142:8000/play/a04g/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",137 Cine Premium 
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",66Cine Premium 
 http://200.229.147.142:8000/play/a082/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="1509dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg",67 CINEMAX
 http://200.229.147.142:8000/play/a04h/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",139 Claro Sports HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",68Claro Sports HD
 http://200.229.147.142:8000/play/a06o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",140 Comedy Central HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",69Comedy Central HD
 http://200.229.147.142:8000/play/a03o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",141 Concert Channel
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",70Concert Channel
 http://200.229.147.142:8000/play/a04c/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",142 CubaVision
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",71CubaVision
 http://200.229.147.142:8000/play/a05h/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="de-pelicula.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg",48 DE PELICULA
 http://200.229.147.142:8000/play/a080/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",144 DHE HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",73DHE HD
 http://200.229.147.142:8000/play/a023/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",145 DISC TEATHER HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",74DISC TEATHER HD
 http://200.229.147.142:8000/play/a03l/index.m3u8
 #EXTINF:0 tvg-id="DistritoComedia.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg",222 DISTRITO COMEDIA SD
 http://200.229.147.142:8000/play/a05c/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",147 DW
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",76DW
 http://200.229.147.142:8000/play/a06c/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",148 Discovery Channel HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",77Discovery Channel HD
 http://200.229.147.142:8000/play/a04z/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",149 Discovery Home & Health
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",78Discovery Home & Health
 http://200.229.147.142:8000/play/a07w/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",150 Discovery ID HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",79Discovery ID HD
 http://200.229.147.142:8000/play/a053/index.m3u8
 #EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="INFANTILES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png",23 DISCOVERY KIDS HD
 http://200.229.147.142:8000/play/a00f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",152 Discovery Science
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",81Discovery Science
 http://200.229.147.142:8000/play/a008/index.m3u8
 #EXTINF:1  group-title="CULTURALES" tvg-id="736dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png",199 DISCOVERY TURBO
 http://200.229.147.142:8000/play/a046/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",154 Discovery World HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",83Discovery World HD
 http://200.229.147.142:8000/play/a050/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901963.jpg",39 DISNEY JR
 http://200.229.147.142:8000/play/a044/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901963.jpg",39 DISNEY JR
 http://200.229.147.142:8000/play/a012/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",157 E! HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",86E! HD
 http://200.229.147.142:8000/play/a01v/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",158 ENLACE
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",87ENLACE
 http://200.229.147.142:8000/play/a06j/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",159 ESPN 1 HD CA
-http://200.229.147.142:8000/play/a05z/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",160 ESPN 2 CA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",88ESPN 1 CA
+http://200.229.147.142:8000/play/a05v/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",89ESPN 2 CA
 http://200.229.147.142:8000/play/a03b/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",161 ESPN 3 HD CA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",90ESPN 3 HD CA
 http://200.229.147.142:8000/play/a061/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",162 ESPN 4 HD CA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",91ESPN 4 HD CA
 http://200.229.147.142:8000/play/a05s/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",163 ESPN 5 HD CA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",92ESPN 5 HD CA
 http://200.229.147.142:8000/play/a05y/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",164 ESPN 6 CA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",93ESPN 6 CA
 http://200.229.147.142:8000/play/a04v/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",6 CANAL DE LAS ESTRELLAS HD
 http://200.229.147.142:8000/play/a05d/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",166 EURO Channel
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",95EURO Channel
 http://200.229.147.142:8000/play/a02d/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",167 EWTN
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",96EVO TV
+http://200.229.147.142:8000/play/a08d/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",97EWTN
 http://200.229.147.142:8000/play/a01n/index.m3u8
 #EXTINF:0 tvg-id="ElGourmetHD.cl" group-title="CULTURALES",211 EL GOURMET HD
 http://200.229.147.142:8000/play/a02f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",169 Europa Europa HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",99Europa Europa HD
 http://200.229.147.142:8000/play/a021/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",170 Exa TV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",100Exa TV
 http://200.229.147.142:8000/play/a03c/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",171 FOX SPORT 1 MX
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",101FOX SPORT 1 MX
 http://200.229.147.142:8000/play/a06a/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",172 FOX SPORT 2 MX
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",102FOX SPORT 2 MX
 http://200.229.147.142:8000/play/a06b/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",173 FUTV HD CR
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",103FUTV HD CR
 http://200.229.147.142:8000/play/a04r/index.m3u8
 #EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="217dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg",89 FX HD
 http://200.229.147.142:8000/play/a020/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",175 Film & arts HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",105Film & arts HD
 http://200.229.147.142:8000/play/a01w/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",176 France24
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",106France24
 http://200.229.147.142:8000/play/a01l/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",177 GO TV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",107GO TV
 http://200.229.147.142:8000/play/a06f/index.m3u8
 #EXTINF:0 tvg-id="Golden.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665437.jpg",93 GOLDEN
 http://200.229.147.142:8000/play/a02n/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",179 Golden Premiere 2 HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",109Golden Premiere 2 HD
 http://200.229.147.142:8000/play/a00h/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",180 Golden Premiere HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",110Golden Premiere HD
 http://200.229.147.142:8000/play/a00g/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",181 Golf Channel HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",111Golf Channel HD
 http://200.229.147.142:8000/play/a026/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",182 Guatevision
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",112Guatevision
 http://200.229.147.142:8000/play/a00w/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",183 H2
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",113H2
 http://200.229.147.142:8000/play/a02e/index.m3u8
 #EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1534dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png",105 HBO FAMILY HD
 http://200.229.147.142:8000/play/a06q/index.m3u8
@@ -377,83 +235,85 @@ http://200.229.147.142:8000/play/a00q/index.m3u8
 http://200.229.147.142:8000/play/a00s/index.m3u8
 #EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="542dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png",110 HBO XTREME
 http://200.229.147.142:8000/play/a00t/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",188 HBO2 HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",118HBO2 HD
 http://200.229.147.142:8000/play/a00r/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",189 HCH- HON
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",119HCH- HON
 http://200.229.147.142:8000/play/a00y/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",190 HOLA! TV HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",120HOLA! TV HD
 http://200.229.147.142:8000/play/a03n/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",191 HTV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",121HTV
 http://200.229.147.142:8000/play/a02m/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",192 History HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",122History HD
 http://200.229.147.142:8000/play/a01o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",193 Home Garden Latino
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",123Home Garden Latino
 http://200.229.147.142:8000/play/a007/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",194 LA LIGA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",124LA LIGA
 http://200.229.147.142:8000/play/a03h/index.m3u8
 #EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="228dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11695256.jpg",140 LIFETIME
 http://200.229.147.142:8000/play/a01c/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",196 La voz de Maria
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",126La voz de Maria
 http://200.229.147.142:8000/play/a049/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",197 Latin America Sport
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",127Latin America Sport
 http://200.229.147.142:8000/play/a02k/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",198 MAYA TV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",128MAYA TV
 http://200.229.147.142:8000/play/a065/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",199 MEGACLASICOS
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",129MEGACLASICOS
 http://200.229.147.142:8000/play/a05w/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",200 MTV 00s HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",130MI Musica Regional
+http://200.229.147.142:8000/play/a07u/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",131MTV 00s HD
 http://200.229.147.142:8000/play/a03q/index.m3u8
 #EXTINF:0 tvg-id="MTVClassic.us" group-title="MUSICALES",230 MTV 80S
 http://200.229.147.142:8000/play/a01f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",202 MTV HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",133MTV HD
 http://200.229.147.142:8000/play/a01q/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",203 MTV Hits
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",134MTV Hits
 http://200.229.147.142:8000/play/a01e/index.m3u8
 #EXTINF:0 tvg-id="MTVLive.us" group-title="MUSICALES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_live_hd-mediano.png",229 MTV LIVE HD
 http://200.229.147.142:8000/play/a03p/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",205 MULTIVISION
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",136MULTIVISION
 http://200.229.147.142:8000/play/a06k/index.m3u8
 #EXTINF:0 tvg-id="Maschic.mx" group-title="CULTURALES" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/230.png",218 MAS CHIC
 http://200.229.147.142:8000/play/a004/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",207 Mi Musica Reguaeton
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",138Mi Musica Reguaeton
 http://200.229.147.142:8000/play/a07z/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",208 Multicinema
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",139Multicinema
 http://200.229.147.142:8000/play/a02p/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",209 Multimedios CR
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",140Multimedios CR
 http://200.229.147.142:8000/play/a00j/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",210 Multipremier
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",141Multipremier
 http://200.229.147.142:8000/play/a04f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",211 Mi Musica Regional
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",142Mi Musica Regional
 http://200.229.147.142:8000/play/a07u/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",212 Nacion Tv
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",143Nacion Tv
 http://200.229.147.142:8000/play/a05q/index.m3u8
 #EXTINF:1  group-title="CULTURALES" tvg-id="730dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901849.jpg",193 NAT GEO HD
 http://200.229.147.142:8000/play/a04w/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="309dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901545.jpg",35 NICK JR
 http://200.229.147.142:8000/play/a010/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",215 Nick HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",146Nick HD
 http://200.229.147.142:8000/play/a03j/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",216 PICOSA 
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",147PICOSA 
 http://200.229.147.142:8000/play/a05l/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",217 PXTV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",148PXTV
 http://200.229.147.142:8000/play/a02j/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",218 Panico
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",149Panico
 http://200.229.147.142:8000/play/a083/index.m3u8
 #EXTINF:0 tvg-id="Paramounthd.br" group-title="CINE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png",71 PARAMOUNT HD
 http://200.229.147.142:8000/play/a04x/index.m3u8
 #EXTINF:0 tvg-id="Pasiones.us" group-title="MEXICO",220 PASIONES
 http://200.229.147.142:8000/play/a00k/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",221 QHUBO TV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",152QHUBO TV
 http://200.229.147.142:8000/play/a04o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",222 RCN - GUA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",153RCN - GUA
 http://200.229.147.142:8000/play/a03z/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",223 RCN Novelas
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",154RCN Novelas
 http://200.229.147.142:8000/play/a02c/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",224 RHEMA TV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",155RHEMA TV
 http://200.229.147.142:8000/play/a04m/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",1 AZTECA UNO
 http://200.229.147.142:8000/play/a06m/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",226 SEMILLITAS
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",157SEMILLITAS
 http://200.229.147.142:8000/play/a014/index.m3u8
 #EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="208dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10020495.jpg",78 SONY HD
 http://200.229.147.142:8000/play/a03f/index.m3u8
@@ -461,35 +321,35 @@ http://200.229.147.142:8000/play/a03f/index.m3u8
 http://200.229.147.142:8000/play/a04p/index.m3u8
 #EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="fox.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",76 STAR CHANNEL HD
 http://200.229.147.142:8000/play/a03d/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",230 Sembrador
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",161Sembrador
 http://200.229.147.142:8000/play/a076/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",231 Sony Movies HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",162Sony Movies HD
 http://200.229.147.142:8000/play/a022/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",232 Star TVE HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",163Star TVE HD
 http://200.229.147.142:8000/play/a025/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",233 Studio Universal HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",164Studio Universal HD
 http://200.229.147.142:8000/play/a01t/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",234 Sun Channel
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",165Sun Channel
 http://200.229.147.142:8000/play/a02g/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="504dtv.cl" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png",52 TCM
 http://200.229.147.142:8000/play/a02o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",236 TD+HD CR
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",167TD+HD CR
 http://200.229.147.142:8000/play/a00d/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",237 TD+2 HD CR
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",168TD+2 HD CR
 http://200.229.147.142:8000/play/a00e/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",238 TELEBASICA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",169TELEBASICA
 http://200.229.147.142:8000/play/a04n/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",239 TELECADENA
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",170TELECADENA
 http://200.229.147.142:8000/play/a03m/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",240 TELEHIT 
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",171TELEHIT 
 http://200.229.147.142:8000/play/a07o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",241 TELEHIT MUSICA 
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",172TELEHIT MUSICA 
 http://200.229.147.142:8000/play/a07e/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",242 TELEMUNDO MIAMI
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",173TELEMUNDO MIAMI
 http://200.229.147.142:8000/play/a064/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",243 TELESUR
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",174TELESUR
 http://200.229.147.142:8000/play/a06e/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",244 TEN 10 
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",175TEN 10 
 http://200.229.147.142:8000/play/a084/index.m3u8
 #EXTINF:1  group-title="CULTURALES"  tvg-id="740dtv.cl" tvg-logo="https://www.telelatinohd.com/img/discoverytlc.png",202 TLC
 http://200.229.147.142:8000/play/a039/index.m3u8
@@ -501,268 +361,453 @@ http://200.229.147.142:8000/play/a03k/index.m3u8
 http://200.229.147.142:8000/play/a01a/index.m3u8
 #EXTINF:0 tvg-id="TNTSerie.br" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg",135 TNT SERIES HD
 http://200.229.147.142:8000/play/a04y/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",250 TSI HD 
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",181TSI HD 
 http://200.229.147.142:8000/play/a04k/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",251 TUDN 
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",182TUDN 
 http://200.229.147.142:8000/play/a07i/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",252 TVC DEPORTES HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",183TVC DEPORTES HD
 http://200.229.147.142:8000/play/a05g/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",253 TV Chile
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",184TV Chile
 http://200.229.147.142:8000/play/a006/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",254 TVE
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",185TVE
 http://200.229.147.142:8000/play/a04l/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",255 Teen Nick HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",186Teen Nick HD
 http://200.229.147.142:8000/play/a01s/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",256 TeleMicro - RD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",187TeleMicro - RD
 http://200.229.147.142:8000/play/a057/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",257 TeleProgreso HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",188TeleProgreso HD
 http://200.229.147.142:8000/play/a06g/index.m3u8
 #EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="231dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png",147 TELEMUNDO
 http://200.229.147.142:8000/play/a016/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",259 Telemundo HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",190Telemundo HD
 http://200.229.147.142:8000/play/a01z/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",260 Tigo Sports HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",191Tigo Sports HD
 http://200.229.147.142:8000/play/a03i/index.m3u8
 #EXTINF:0 tvg-id="Tooncast.mx" group-title="INFANTILES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast-mediano.png",46 TOONCAST
 http://200.229.147.142:8000/play/a02z/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",262 UNE TV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",193UNE TV
 http://200.229.147.142:8000/play/a069/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",263 UNIVERSAL CINEMA ESTE HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",194UNIVERSAL CINEMA ESTE HD
 http://200.229.147.142:8000/play/a054/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",264 UNIVERSAL COMEDY HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",195UNIVERSAL COMEDY HD
 http://200.229.147.142:8000/play/a03v/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",265 UNIVERSAL CRIME HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",196UNIVERSAL CRIME HD
 http://200.229.147.142:8000/play/a03u/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",266 UNIVERSAL PREMIERE HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",197UNIVERSAL PREMIERE HD
 http://200.229.147.142:8000/play/a03r/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",267 UNIVERSAL PREMIERE O HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",198UNIVERSAL PREMIERE O HD
 http://200.229.147.142:8000/play/a03s/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.395393765_UniversalReality-Oscuro.png.3bf4accf35b657d0e7e084feea1449af.png",130 UNIVERSAL REALITY HD
 http://200.229.147.142:8000/play/a03t/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",269 UNIVISION MIAMI
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",200UNIVISION MIAMI
 http://200.229.147.142:8000/play/a02i/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",270 UNAM TV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",201UTV HONDURAS
 http://200.229.147.142:8000/play/a03a/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="508dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",62 STUDIO UNIVERSAL
 http://200.229.147.142:8000/play/a04d/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",272 Univision HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",203Univision HD
 http://200.229.147.142:8000/play/a052/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",273 VE PLUS
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",204VE PLUS
 http://200.229.147.142:8000/play/a06i/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",274 WARNER HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",205WARNER HD
 http://200.229.147.142:8000/play/a03e/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",275 ZooMoo
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",206ZooMoo
 http://200.229.147.142:8000/play/a003/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",276 NDTV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",207NDTV
 http://200.229.147.142:8000/play/a086/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",277 A3Cine
-http://38.44.109.41:8003/play/a01k/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",20811 Repretel
+http://200.92.227.238:8000/play/a0n2/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",2094 Repretel
+http://200.92.227.238:8000/play/a0nu/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",2106 Repretel
+http://200.92.227.238:8000/play/a0n0/index.m3u8
+#EXTINF:0 tvg-id="AyE.ar" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901433.jpg",119 A&E SD
+http://200.92.227.238:8000/play/a0o0/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",212A&E HD
+http://200.92.227.238:8000/play/a0mb/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="210dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",57 AMC
-http://38.44.109.41:8003/play/a02a/index.m3u8
-#EXTINF:0 tvg-id="HolaTV.us" group-title="CULTURALES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png",214 HOLA TV
-http://38.44.109.41:8003/play/a00r/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",280 ATV Sur
-http://38.44.109.41:8003/play/a02r/index.m3u8
+http://200.92.227.238:8000/play/a0lw/index.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",61 AMC HD
+http://200.92.227.238:8000/play/a0mc/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="axn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",72 AXN
-http://38.44.109.41:8003/play/a031/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",282 AlJazeera
-http://38.44.109.41:8003/play/a00q/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",283 America TV GO
-http://38.44.109.41:8003/play/a01z/index.m3u8
+http://200.92.227.238:8000/play/a0lu/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",216AXN HD
+http://200.92.227.238:8000/play/a0uk/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",217AZ click HD
+http://200.92.227.238:8000/play/a0mi/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",218Adult Swim
+http://200.92.227.238:8000/play/a0tc/index.m3u8
 #EXTINF:1  group-title="CULTURALES" tvg-id="animalplanet.mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png",204 ANIMAL PLANET
-http://38.44.109.41:8003/play/a010/index.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",1 AZTECA UNO
-http://38.44.109.41:8003/play/a033/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",286 Bitme
-http://38.44.109.41:8003/play/a00f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",287 CGTN
-http://38.44.109.41:8003/play/a021/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",288 CNN Español
-http://38.44.109.41:8003/play/a00d/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",289 Canal 1
-http://38.44.109.41:8003/play/a020/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",290 Canal 6 MX
-http://38.44.109.41:8003/play/a01j/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",291 Caracol HD
-http://38.44.109.41:8003/play/a00x/index.m3u8
+http://200.92.227.238:8000/play/a0o3/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="animalplanet.mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png",206 ANIMAL PLANET HD
+http://200.92.227.238:8000/play/a0m8/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",221Antena 7- RD
+http://200.92.227.238:8000/play/a0rn/index.m3u8
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="MEXICO" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png",15 AZTECA CORAZON SD
+http://200.92.227.238:8000/play/a0ll/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",223Azmundo
+http://200.92.227.238:8000/play/a0nw/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",10 AZTECA 7
+http://200.92.227.238:8000/play/a0uw/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",225Cine Mexicano
+http://200.92.227.238:8000/play/a0ux/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",226BBC News
+http://200.92.227.238:8000/play/a0rw/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",227BBC World
+http://200.92.227.238:8000/play/a0ly/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="babyfirst.cl" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/BABYFIRST/EXPORTACION_WEB/SS/BABYFIRST_t-290x163.png",30 BABY FIRST
+http://200.92.227.238:8000/play/a0n3/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",229Banda Max
+http://200.92.227.238:8000/play/a0v1/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",230CANAL 13 NI
+http://200.92.227.238:8000/play/a0sa/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="529" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901546.jpg",28 CARTOON NETWORK HD
+http://200.92.227.238:8000/play/a0mp/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",232CDN2 RD
+http://200.92.227.238:8000/play/a0s7/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",233CDN37 RD
+http://200.92.227.238:8000/play/a0ss/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",234CERTV
+http://200.92.227.238:8000/play/a0tp/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",235CINECANAL HD
+http://200.92.227.238:8000/play/a0od/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",236CNN Español
+http://200.92.227.238:8000/play/a0lx/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",237Canal 21 ESA
+http://200.92.227.238:8000/play/a0tw/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",238Canal 11 GUA
+http://200.92.227.238:8000/play/a0mz/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",239Canal 11 HON
+http://200.92.227.238:8000/play/a0rl/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",240Canal 12 ESA
+http://200.92.227.238:8000/play/a0s2/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",241Canal 13-GUA
+http://200.92.227.238:8000/play/a0my/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",242Canal 14 NIC
+http://200.92.227.238:8000/play/a0s5/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",243Canal 19 ESA
+http://200.92.227.238:8000/play/a0sg/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",244Canal 2 ESA
+http://200.92.227.238:8000/play/a0sm/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",245Canal 2 NIC
+http://200.92.227.238:8000/play/a0so/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",246Canal 3 GUA
+http://200.92.227.238:8000/play/a0nt/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",247Telesistemas HND
+http://200.92.227.238:8000/play/a0ty/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",248Canal 4 ESA
+http://200.92.227.238:8000/play/a0sl/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",249Canal 5 HON
+http://200.92.227.238:8000/play/a0sn/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",250Canal 6 ESA
+http://200.92.227.238:8000/play/a0s1/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",251Canal 6 NI
+http://200.92.227.238:8000/play/a0s9/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",252Canal 7 GUA
+http://200.92.227.238:8000/play/a0ns/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",253Teletica 7 HD
+http://200.92.227.238:8000/play/a0ry/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",254Canal Antigua GUA
+http://200.92.227.238:8000/play/a0nq/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",255Canal Azteca GUA
+http://200.92.227.238:8000/play/a0nr/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",256Canal Claro
+http://200.92.227.238:8000/play/a0lc/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",257Canal VTV HND
+http://200.92.227.238:8000/play/a0tz/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",258Canal del Congreso
+http://200.92.227.238:8000/play/a0ts/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",259Canal Las Estrellas
+http://200.92.227.238:8000/play/a0v7/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="529" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901546.jpg",27 CARTOON NETWORK
-http://38.44.109.41:8003/play/a03d/index.m3u8
+http://200.92.227.238:8000/play/a0le/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="528" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png",44 CARTOONITO
-http://38.44.109.41:8003/play/a03c/index.m3u8
+http://200.92.227.238:8000/play/a0lg/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",262Cine Latino
+http://200.92.227.238:8000/play/a0ue/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="507dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/7923674.jpg",64 CINECANAL
-http://38.44.109.41:8003/play/a03a/index.m3u8
+http://200.92.227.238:8000/play/a0uh/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="1509dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg",67 CINEMAX
-http://38.44.109.41:8003/play/a023/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",296 City TV
-http://38.44.109.41:8003/play/a02f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",297 Cocavision
-http://38.44.109.41:8003/play/a01i/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",298 Cubavision
-http://38.44.109.41:8003/play/a028/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",299 DW
-http://38.44.109.41:8003/play/a01b/index.m3u8
+http://200.92.227.238:8000/play/a0uf/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",265Claro Sports 1 HD
+http://200.92.227.238:8000/play/a0qe/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",266Color Vision 9 RD
+http://200.92.227.238:8000/play/a0sr/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",267Comedy Central HD
+http://200.92.227.238:8000/play/a0on/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",268Concert Channel
+http://200.92.227.238:8000/play/a0ub/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",269D Pelicula
+http://200.92.227.238:8000/play/a0v4/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",270DHE
+http://200.92.227.238:8000/play/a0qb/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",271DHE HD
+http://200.92.227.238:8000/play/a0mh/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",272DISC THEATHER HD
+http://200.92.227.238:8000/play/a0ok/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",273Digital 15 RD
+http://200.92.227.238:8000/play/a0s6/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",274Discovery Channel HD
+http://200.92.227.238:8000/play/a0q0/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",275Discovery Home & Health
+http://200.92.227.238:8000/play/a0u5/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",276Discovery ID HD
+http://200.92.227.238:8000/play/a0q4/index.m3u8
 #EXTINF:1  group-title="INFANTILES" tvg-id="330dtv.co" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png",21 DISCOVERY KIDS
-http://38.44.109.41:8003/play/a01e/index.m3u8
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="CULTURALES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png",196 DISCOVERY H&H
-http://38.44.109.41:8003/play/a016/index.m3u8
-#EXTINF:1  group-title="CULTURALES" tvg-id="223dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/223.png",197 DISCOVERY ID
-http://38.44.109.41:8003/play/a02s/index.m3u8
-#EXTINF:1  group-title="INFANTILES" tvg-id="330dtv.co" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png",21 DISCOVERY KIDS
-http://38.44.109.41:8003/play/a01t/index.m3u8
-#EXTINF:1  group-title="INFANTILES" tvg-id="312dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png",42 DISNEY CHANNEL
-http://38.44.109.41:8003/play/a00e/index.m3u8
-#EXTINF:1  group-title="INFANTILES" tvg-id="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901963.jpg",39 DISNEY JR
-http://38.44.109.41:8003/play/a03b/index.m3u8
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg",222 DISTRITO COMEDIA SD
-http://38.44.109.41:8003/play/a00j/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="222dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12396704.jpg",84 E!
-http://38.44.109.41:8003/play/a030/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",308 ECDF
-http://38.44.109.41:8003/play/a038/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",309 EJTV
-http://38.44.109.41:8003/play/a014/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",310 ESPN 1 Sur
-http://38.44.109.41:8003/play/a02v/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",311 ESPN 2 Sur
-http://38.44.109.41:8003/play/a00v/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",312 ESPN 3 Sur
-http://38.44.109.41:8003/play/a00w/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",313 ESPN 4 Sur
-http://38.44.109.41:8003/play/a03m/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",314 ESPN 5 Sur
-http://38.44.109.41:8003/play/a02t/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",315 ESPN 6 Sur
-http://38.44.109.41:8003/play/a00u/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",316 ESPN 7 Sur
-http://38.44.109.41:8003/play/a02u/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",317 ESPN Premium
-http://38.44.109.41:8003/play/a02m/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",318 EWTN
-http://38.44.109.41:8003/play/a01u/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",319 EcuadorTV
-http://38.44.109.41:8003/play/a02b/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",320 Ecuavisa
-http://38.44.109.41:8003/play/a019/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",321 El mundo del campo
-http://38.44.109.41:8003/play/a036/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",322 Enlace
-http://38.44.109.41:8003/play/a00o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",323 Eurochannel
-http://38.44.109.41:8003/play/a02j/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="217dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg",89 FX HD
-http://38.44.109.41:8003/play/a01g/index.m3u8
-#EXTINF:0 tvg-id="food-network-rus" group-title="CULTURALES",213 FOOD NETWORK HD
-http://38.44.109.41:8003/play/a03f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",326 Gamavision
-http://38.44.109.41:8003/play/a02n/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",327 Gol TV
-http://38.44.109.41:8003/play/a02h/index.m3u8
-#EXTINF:0 tvg-id="Golden.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665437.jpg",93 GOLDEN
-http://38.44.109.41:8003/play/a001/index.m3u8
-#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665570.jpg",95 GOLDEN EDGE
-http://38.44.109.41:8003/play/a002/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",330 Guatevision
-http://38.44.109.41:8003/play/a02p/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="hbo.py" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png",98 HBO HD
-http://38.44.109.41:8003/play/a03k/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1534dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png",105 HBO FAMILY HD
-http://38.44.109.41:8003/play/a03j/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",333 Hispan TV
-http://38.44.109.41:8003/play/a024/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",334 History Channel
-http://38.44.109.41:8003/play/a03l/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",335 Hogar TV
-http://38.44.109.41:8003/play/a02k/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",336 La Tele
-http://38.44.109.41:8003/play/a01m/index.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",3 LAS ESTRELLAS
-http://38.44.109.41:8003/play/a00g/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",338 Love Nature
-http://38.44.109.41:8003/play/a02d/index.m3u8
-#EXTINF:1  group-title="MUSICA" tvg-id="mtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901692.jpg",226 MTV
-http://38.44.109.41:8003/play/a03i/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",340 Makrodigital
-http://38.44.109.41:8003/play/a02i/index.m3u8
-#EXTINF:1  group-title="CULTURALES" tvg-id="730dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901849.jpg",191 NAT GEO
-http://38.44.109.41:8003/play/a006/index.m3u8
-#EXTINF:1  group-title="INFANTILES" tvg-id="308dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11585959.jpg",24 NICK
-http://38.44.109.41:8003/play/a01s/index.m3u8
-#EXTINF:1  group-title="INFANTILES" tvg-id="309dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901545.jpg",35 NICK JR
-http://38.44.109.41:8003/play/a026/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",344 Nuevo Tiempo
-http://38.44.109.41:8003/play/a01n/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",345 Oromar
-http://38.44.109.41:8003/play/a01a/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",346 Panamericana
-http://38.44.109.41:8003/play/a013/index.m3u8
-#EXTINF:0 tvg-id="Pasiones.us" group-title="MEXICO",220 PASIONES
-http://38.44.109.41:8003/play/a01f/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",348 Plim Plim
-http://38.44.109.41:8003/play/a027/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",349 RCN HD
-http://38.44.109.41:8003/play/a00y/index.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",1 AZTECA UNO
-http://38.44.109.41:8003/play/a00a/index.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",160 FOX SPORTS
-http://38.44.109.41:8003/play/a02e/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",352 RTU
-http://38.44.109.41:8003/play/a01p/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",353 Rumba TV
-http://38.44.109.41:8003/play/a022/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",354 SNT
-http://38.44.109.41:8003/play/a02g/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",355 Senal Colombia
-http://38.44.109.41:8003/play/a018/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="208dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10020495.jpg",78 SONY HD
-http://38.44.109.41:8003/play/a039/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",357 Space           
-http://38.44.109.41:8003/play/a01y/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="fox.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",75 STAR CHANNEL
-http://38.44.109.41:8003/play/a012/index.m3u8
-#EXTINF:1  group-title="CINE" tvg-id="508dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",62 STUDIO UNIVERSAL
-http://38.44.109.41:8003/play/a03e/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",360 TC HD
-http://38.44.109.41:8003/play/a00z/index.m3u8
-#EXTINF:1  group-title="CINE" tvg-id="502dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",49 TNT HD
-http://38.44.109.41:8003/play/a01v/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="213dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg",131 TNT SERIES
-http://38.44.109.41:8003/play/a01x/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",363 TV Agro
-http://38.44.109.41:8003/play/a02c/index.m3u8
-#EXTINF:0 tvg-id="MTVClassic.us" group-title="MUSICALES",230 MTV 80S
-http://38.44.109.41:8003/play/a029/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",365 Teleamazonas HD
-http://38.44.109.41:8003/play/a035/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",366 Teleantillas
-http://38.44.109.41:8003/play/a02y/index.m3u8
-#EXTINF:0 tvg-id="TelehitHD.mx" group-title="MUSICALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png",231 TELEHIT
-http://38.44.109.41:8003/play/a003/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",368 Telemedellin
-http://38.44.109.41:8003/play/a02o/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",369 Telemicro
-http://38.44.109.41:8003/play/a02q/index.m3u8
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="231dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png",147 TELEMUNDO
-http://38.44.109.41:8003/play/a017/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",371 Telenostalgia
-http://38.44.109.41:8003/play/a01r/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",372 Telenovelas
-http://38.44.109.41:8003/play/a00i/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",373 Telesur
-http://38.44.109.41:8003/play/a01q/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",374 Trece
-http://38.44.109.41:8003/play/a01w/index.m3u8
+http://200.92.227.238:8000/play/a0u0/index.m3u8
 #EXTINF:1  group-title="CULTURALES" tvg-id="736dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png",199 DISCOVERY TURBO
-http://38.44.109.41:8003/play/a02w/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",376 TyC Sports
-http://38.44.109.41:8003/play/a02l/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",377 Unicable
-http://38.44.109.41:8003/play/a00h/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",378 VTV
-http://38.44.109.41:8003/play/a01l/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",379 Win Sports
-http://38.44.109.41:8003/play/a03n/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",380 YasuniTV
-http://38.44.109.41:8003/play/a032/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",381  ZooMoo
-http://38.44.109.41:8003/play/a025/index.m3u8
-
+http://200.92.227.238:8000/play/a0u4/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",279Discovery World HD
+http://200.92.227.238:8000/play/a0q1/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901963.jpg",39 DISNEY JR
+http://200.92.227.238:8000/play/a0u2/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901963.jpg",39 DISNEY JR
+http://200.92.227.238:8000/play/a0lh/index.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg",222 DISTRITO COMEDIA SD
+http://200.92.227.238:8000/play/a0v0/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="222dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12396704.jpg",84 E!
+http://200.92.227.238:8000/play/a0nz/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",284E! Entertairment HD
+http://200.92.227.238:8000/play/a0m9/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",285ESPN HD
+http://200.92.227.238:8000/play/a0tj/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",286ESPN HD
+http://200.92.227.238:8000/play/a0pt/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="espn-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",152 ESPN 2
+http://200.92.227.238:8000/play/a0o7/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="espn-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",154 ESPN 2 HD
+http://200.92.227.238:8000/play/a0tk/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="espn-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",156 ESPN 3
+http://200.92.227.238:8000/play/a0nb/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="espn-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",158 ESPN 3 HD
+http://200.92.227.238:8000/play/a0tl/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="DEPORTES",178 ESPN 4
+http://200.92.227.238:8000/play/a0tg/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",292ESPN 4 HD
+http://200.92.227.238:8000/play/a0ti/index.m3u8
+#EXTINF:0 tvg-id="ESPN5.nl" group-title="DEPORTES",179 ESPN 5
+http://200.92.227.238:8000/play/a0u9/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",294ESPN 5  HD
+http://200.92.227.238:8000/play/a0um/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",180 ESPN 6
+http://200.92.227.238:8000/play/a0th/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",296ESPN 6 HD
+http://200.92.227.238:8000/play/a0tm/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",297EURO Channel
+http://200.92.227.238:8000/play/a0n6/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",298EWTN
+http://200.92.227.238:8000/play/a0m1/index.m3u8
+#EXTINF:0 tvg-id="ElGourmetHD.cl" group-title="CULTURALES",211 EL GOURMET HD
+http://200.92.227.238:8000/play/a0n8/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",300Europa HD
+http://200.92.227.238:8000/play/a0mf/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",301Exa TV
+http://200.92.227.238:8000/play/a0o8/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",302FUTV CR
+http://200.92.227.238:8000/play/a0tq/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",303FUTV HD CR
+http://200.92.227.238:8000/play/a0ta/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="217dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg",89 FX HD
+http://200.92.227.238:8000/play/a0n4/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="217dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg",89 FX HD
+http://200.92.227.238:8000/play/a0me/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",306Film & Arts
+http://200.92.227.238:8000/play/a0l6/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",307Film & arts HD
+http://200.92.227.238:8000/play/a0ma/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",308France24
+http://200.92.227.238:8000/play/a0lz/index.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665437.jpg",93 GOLDEN
+http://200.92.227.238:8000/play/a0nh/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",310Golf Channel HD
+http://200.92.227.238:8000/play/a0mk/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",311Guatevision GUA
+http://200.92.227.238:8000/play/a0ld/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",312H2
+http://200.92.227.238:8000/play/a0n7/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1534dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png",105 HBO FAMILY HD
+http://200.92.227.238:8000/play/a0mt/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="hbo.py" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png",98 HBO HD
+http://200.92.227.238:8000/play/a0mq/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="526dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png",108 HBO PLUS HD
+http://200.92.227.238:8000/play/a0ms/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="542dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png",110 HBO XTREME
+http://200.92.227.238:8000/play/a0mu/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",317HBO2 HD
+http://200.92.227.238:8000/play/a0qj/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",318HCH HON
+http://200.92.227.238:8000/play/a0rs/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",319HOLA! TV HD
+http://200.92.227.238:8000/play/a0om/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",320HTV
+http://200.92.227.238:8000/play/a0ng/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",321History Channel
+http://200.92.227.238:8000/play/a0o4/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",322History HD
+http://200.92.227.238:8000/play/a0ml/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",323Home & Health HD
+http://200.92.227.238:8000/play/a0ol/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",1 AZTECA UNO
+http://200.92.227.238:8000/play/a0u6/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento",13 Imagen TV+
+http://200.92.227.238:8000/play/a0v2/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",3 LAS ESTRELLAS
+http://200.92.227.238:8000/play/a0uu/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",327LIFE TIME
+http://200.92.227.238:8000/play/a0lq/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",328La voz de Maria
+http://200.92.227.238:8000/play/a0u8/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",329Latin America Sport
+http://200.92.227.238:8000/play/a0nd/index.m3u8
+#EXTINF:1  group-title="MUSICA" tvg-id="mtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901692.jpg",226 MTV
+http://200.92.227.238:8000/play/a0ua/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",331MTV 00s
+http://200.92.227.238:8000/play/a0nf/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",332MTV 00s HD
+http://200.92.227.238:8000/play/a0op/index.m3u8
+#EXTINF:0 tvg-id="MTVClassic.us" group-title="MUSICALES",230 MTV 80S
+http://200.92.227.238:8000/play/a0lt/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",334MTV HD
+http://200.92.227.238:8000/play/a0mm/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",335MTV Hits
+http://200.92.227.238:8000/play/a0ls/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",336MTV SIM HD
+http://200.92.227.238:8000/play/a0oo/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",337Mexicanal
+http://200.92.227.238:8000/play/a0uz/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",338Multicinema
+http://200.92.227.238:8000/play/a0sk/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",339Multimedios CR
+http://200.92.227.238:8000/play/a0l3/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",340Multipremier
+http://200.92.227.238:8000/play/a0ud/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="730dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901849.jpg",193 NAT GEO HD
+http://200.92.227.238:8000/play/a0px/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",342National Geographic
+http://200.92.227.238:8000/play/a0lp/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",343Nicarao TV
+http://200.92.227.238:8000/play/a0rt/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="309dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901545.jpg",35 NICK JR
+http://200.92.227.238:8000/play/a0lf/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",345Nick SIM HD
+http://200.92.227.238:8000/play/a0oh/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="308dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11585959.jpg",25 NICKELODEON
+http://200.92.227.238:8000/play/a0u1/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",347PXTV
+http://200.92.227.238:8000/play/a0si/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="510dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png",69 PARAMOUNT NETWORK
+http://200.92.227.238:8000/play/a0l8/index.m3u8
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="CINE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png",71 PARAMOUNT HD
+http://200.92.227.238:8000/play/a0py/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",350Pasiones HD
+http://200.92.227.238:8000/play/a0q2/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",351Playboy
+http://200.92.227.238:8000/play/a0mv/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",352La Red GUA
+http://200.92.227.238:8000/play/a0tt/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",353RCN Novelas
+http://200.92.227.238:8000/play/a0n5/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",354RHEMA TV
+http://200.92.227.238:8000/play/a0uj/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",355SEMILLITAS
+http://200.92.227.238:8000/play/a0li/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="208dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10020495.jpg",78 SONY HD
+http://200.92.227.238:8000/play/a0nx/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="208dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10020495.jpg",78 SONY HD
+http://200.92.227.238:8000/play/a0oc/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="518dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",54 SPACE HD
+http://200.92.227.238:8000/play/a0lm/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="518dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",54 SPACE HD
+http://200.92.227.238:8000/play/a0ul/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="fox.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",75 STAR CHANNEL
+http://200.92.227.238:8000/play/a0u3/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="fox.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",76 STAR CHANNEL HD
+http://200.92.227.238:8000/play/a0oa/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",362Sembrador
+http://200.92.227.238:8000/play/a0nm/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",363Sony Movies HD
+http://200.92.227.238:8000/play/a0mg/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",364Star TVE HD
+http://200.92.227.238:8000/play/a0mj/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="508dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",62 STUDIO UNIVERSAL
+http://200.92.227.238:8000/play/a0ug/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",366Sun Channel
+http://200.92.227.238:8000/play/a0n9/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",367TBN Enlace
+http://200.92.227.238:8000/play/a0m0/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="504dtv.cl" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png",52 TCM
+http://200.92.227.238:8000/play/a0ni/index.m3u8
+#EXTINF:1  group-title="CULTURALES"  tvg-id="740dtv.cl" tvg-logo="https://www.telelatinohd.com/img/discoverytlc.png",202 TLC
+http://200.92.227.238:8000/play/a0o5/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="tlnovelas.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12531651.jpg",136 TL NOVELAS
+http://200.92.227.238:8000/play/a0uv/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="502dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",49 TNT HD
+http://200.92.227.238:8000/play/a0lv/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="502dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",49 TNT HD
+http://200.92.227.238:8000/play/a0oj/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE",139 TNT NOVELAS
+http://200.92.227.238:8000/play/a0rv/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="213dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg",131 TNT SERIES
+http://200.92.227.238:8000/play/a0ln/index.m3u8
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg",135 TNT SERIES HD
+http://200.92.227.238:8000/play/a0pz/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",167 TUDN
+http://200.92.227.238:8000/play/a0ut/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",377TV Oriente ESA
+http://200.92.227.238:8000/play/a0tr/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",378TVE
+http://200.92.227.238:8000/play/a0ui/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",379TVM25 ESA
+http://200.92.227.238:8000/play/a0tx/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",380Teen Nick HD
+http://200.92.227.238:8000/play/a0m5/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",381Tele Antillas RD
+http://200.92.227.238:8000/play/a0rm/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",382TeleMicro RD
+http://200.92.227.238:8000/play/a0sq/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",383Telecentro RD
+http://200.92.227.238:8000/play/a0sb/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="231dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png",147 TELEMUNDO
+http://200.92.227.238:8000/play/a0lk/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",385Telemundo HD
+http://200.92.227.238:8000/play/a0md/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",386Telesistema RD
+http://200.92.227.238:8000/play/a0ro/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",387Teleunion RD
+http://200.92.227.238:8000/play/a0sc/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",388Teleuniverso RD
+http://200.92.227.238:8000/play/a0s8/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",389Televida RD
+http://200.92.227.238:8000/play/a0q6/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",390Tigo Sports CR HD
+http://200.92.227.238:8000/play/a0og/index.m3u8
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="INFANTILES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast-mediano.png",46 TOONCAST
+http://200.92.227.238:8000/play/a0nv/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",392Adult Swim
+http://200.92.227.238:8000/play/a0lj/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",393Tv Largato
+http://200.92.227.238:8000/play/a0v3/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",394UNIVERSAL CINEMA ESTE HD
+http://200.92.227.238:8000/play/a0q5/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",395UNIVERSAL COMEDY HD
+http://200.92.227.238:8000/play/a0ou/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",396UNIVERSAL CRIME HD
+http://200.92.227.238:8000/play/a0ot/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",397UNIVERSAL PREMIERE HD
+http://200.92.227.238:8000/play/a0oq/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",398UNIVERSAL PREMIERE O HD
+http://200.92.227.238:8000/play/a0or/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.395393765_UniversalReality-Oscuro.png.3bf4accf35b657d0e7e084feea1449af.png",130 UNIVERSAL REALITY HD
+http://200.92.227.238:8000/play/a0os/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",400Univision HD
+http://200.92.227.238:8000/play/a0q3/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",401VENUS
+http://200.92.227.238:8000/play/a0nn/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",402TCS+
+http://200.92.227.238:8000/play/a0sf/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",403WARNER HD
+http://200.92.227.238:8000/play/a0ob/index.m3u8
+#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1206dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10640425.jpg",81 WARNER
+http://200.92.227.238:8000/play/a0ny/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="508dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",62 STUDIO UNIVERSAL
+http://200.92.227.238:8000/play/a0uc/index.m3u8
