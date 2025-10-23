@@ -701,8 +701,6 @@ http://200.92.227.238:8000/play/a0l8/index.m3u8
 http://200.92.227.238:8000/play/a0py/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",350Pasiones HD
 http://200.92.227.238:8000/play/a0q2/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",351Playboy
-http://200.92.227.238:8000/play/a0mv/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",352La Red GUA
 http://200.92.227.238:8000/play/a0tt/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",353RCN Novelas
@@ -801,8 +799,6 @@ http://200.92.227.238:8000/play/a0or/index.m3u8
 http://200.92.227.238:8000/play/a0os/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",400Univision HD
 http://200.92.227.238:8000/play/a0q3/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",401VENUS
-http://200.92.227.238:8000/play/a0nn/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",402TCS+
 http://200.92.227.238:8000/play/a0sf/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",403WARNER HD
@@ -811,3 +807,4 @@ http://200.92.227.238:8000/play/a0ob/index.m3u8
 http://200.92.227.238:8000/play/a0ny/index.m3u8
 #EXTINF:1  group-title="CINE" tvg-id="508dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",62 STUDIO UNIVERSAL
 http://200.92.227.238:8000/play/a0uc/index.m3u8
+
