@@ -1,851 +1,828 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
-#EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
-#EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",1 AZTECA UNO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",2 AZTECA UNO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",3 AZTECA UNO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/506
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",4 AZTECA 1 SD OPC2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/505
-#EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",5 LAS ESTRELLAS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",6 LAS ESTRELLAS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",7 CANAL DE LAS ESTRELLAS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",8 CANAL DE LAS ESTRELLAS HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",9 CANAL DE LAS ESTRELLAS HD -2h
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",10 CANAL 5
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",11 CANAL 5 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",12 CANAL 5
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",13 AZTECA 7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",14 AZTECA 7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",15 AZTECA 7 SD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",16 AZTECA 7 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento",17 Imagen TV+
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/2000_62422e9799a05.png",18 GALA TV HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11084062.png",19 ONCE
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:-1 group-title="NACIONALES" tvg-id="az-corazon.mx" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="Variedades",20 Azteca Corazon
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="AzCorazon.mx" group-title="MEXICO" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png",21 AZTECA CORAZON SD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="AzCorazon.mx" group-title="MEXICO" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png",22 AZTECA CORAZON SD OPC2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:-1 group-title="NACIONALES" tvg-id="" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Clic450x300.png" group-title="Variedades",23 Azteca Clic
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/17327152.jpg",24 AZTECA CLIC
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/17327152.jpg",25 AZTECA CLIC HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:-1 group-title="NACIONALES" tvg-id="" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2022/azteca_uno.png" group-title="Variedades",26 Azteca Uno -1h
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:-1 group-title="NACIONALES" tvg-id="" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png" group-title="Variedades",27 Azteca Internacional
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png",28 AZTECA INTERNACIONAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/A%2B_2021.svg",29 A MAS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="MEXICO",30 AZTECA CINEMA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:1  group-title="INFANTILES" tvg-id="330dtv.co" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png",31 DISCOVERY KIDS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:1  group-title="INFANTILES" tvg-id="330dtv.co" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png",32 DISCOVERY KIDS HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:1  group-title="INFANTILES" tvg-id="330dtv.co" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png",33 DISCOVERY KIDS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00n
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="INFANTILES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png",34 DISCOVERY KIDS HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/125
-#EXTINF:1  group-title="INFANTILES" tvg-id="308dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11585959.jpg",35 NICK
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a17f
-#EXTINF:1  group-title="INFANTILES" tvg-id="308dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11585959.jpg",36 NICK HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0lc
-#EXTINF:1  group-title="INFANTILES" tvg-id="308dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11585959.jpg",37 NICKELODEON
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a15g
-#EXTINF:1  group-title="INFANTILES" tvg-id="308dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11585959.jpg",38 NICKELODEON
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a005
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="INFANTILES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11585959.jpg",39 NICKELODEON
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/122
-#EXTINF:1  group-title="INFANTILES" tvg-id="529" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901546.jpg",40 CARTOON NETWORK
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0iz
-#EXTINF:1  group-title="INFANTILES" tvg-id="529" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901546.jpg",41 CARTOON NETWORK HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a032
-#EXTINF:0 tvg-id="cartoon" group-title="INFANTILES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901546.jpg",42 CARTOON NETWORK HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/134
-#EXTINF:1  group-title="INFANTILES" tvg-id="babyfirst.cl" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/BABYFIRST/EXPORTACION_WEB/SS/BABYFIRST_t-290x163.png",43 BABY FIRST
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0vf
-#EXTINF:1  group-title="INFANTILES" tvg-id="babyfirst.cl" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/BABYFIRST/EXPORTACION_WEB/SS/BABYFIRST_t-290x163.png",44 BABY FIRST
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00j
-#EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="INFANTILES" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/BABYFIRST/EXPORTACION_WEB/SS/BABYFIRST_t-290x163.png",45 BABYFIRST
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/140
-#EXTINF:1  group-title="INFANTILES" tvg-id="1317dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11006189.jpg",46 BABY TV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a17j
-#EXTINF:1  group-title="INFANTILES" tvg-id="309dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901545.jpg",47 NICK JR
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0oz
-#EXTINF:1  group-title="INFANTILES" tvg-id="309dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901545.jpg",48 NICK JR
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a02e
-#EXTINF:0 tvg-id="NickJr.mx" group-title="INFANTILES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11585959.jpg",49 NICK JR
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/121
-#EXTINF:0 tvg-id="NickJr.br" group-title="INFANTILES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11585959.jpg",50 NICK JR HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/120
-#EXTINF:0 tvg-id="TeenNick.us" group-title="INFANTILES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teen_nick-mediano.png",51 TEEN NICK
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/119
-#EXTINF:0 tvg-id="TeenNick.pl" group-title="INFANTILES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teen_nick-mediano.png",52 TEENNICK
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/44642
-#EXTINF:1  group-title="INFANTILES" tvg-id="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901963.jpg",53 DISNEY JR
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0qr
-#EXTINF:1  group-title="INFANTILES" tvg-id="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901963.jpg",54 DISNEY JR
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00u
-#EXTINF:0 tvg-id="DisneyJrHD.ca" group-title="INFANTILES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901963.jpg",55 DISNEY JR HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/129
-#EXTINF:1  group-title="INFANTILES" tvg-id="312dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png",56 DISNEY CHANNEL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a165
-#EXTINF:1  group-title="INFANTILES" tvg-id="312dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png",57 DISNEY CHANNEL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a17e
-#EXTINF:1  group-title="INFANTILES" tvg-id="312dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png",58 DISNEY CHANNEL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a010
-#EXTINF:0 tvg-id="DisneyChannel.ar" group-title="INFANTILES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png",59 DISNEY CHANNEL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/132
-#EXTINF:0 tvg-id="DisneyChannel.mx" group-title="INFANTILES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png",60 DISNEY CHANNEL DUAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/131
-#EXTINF:1  group-title="INFANTILES" tvg-id="528" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png",61 CARTOONITO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0n4
-#EXTINF:1  group-title="INFANTILES" tvg-id="528" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png",62 CARTOONITO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a03k
-#EXTINF:0 tvg-id="boomerang" group-title="INFANTILES" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png",63 CARTOONITO SD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/138
-#EXTINF:0 tvg-id="boomerang" group-title="INFANTILES" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png",64 CARTOONITO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/52032
-#EXTINF:0 tvg-id="ext" group-title="INFANTILES" tvg-logo="https://cdn.mitvstatic.com/programs/mx_bitme-1_p_m.jpg",65 BITME
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/130
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="INFANTILES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast-mediano.png",66 TOONCAST
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/117
-#EXTINF:0 tvg-id="ext" group-title="INFANTILES",67 ULTRA KIDS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/137
-#EXTINF:1  group-title="CINE" tvg-id="de-pelicula.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg",68 DE PELICULA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0xw
-#EXTINF:1  group-title="CINE" tvg-id="de-pelicula.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg",69 DE PELICULA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a07z
-#EXTINF:0 tvg-id="DePelicula.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg",70 DE PELICULA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/458
-#EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo-2017.png",71 DE PELICULA PLUS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/459
-#EXTINF:0 tvg-id="DePeliculaClasico.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg",72 DE PELICULA CLASICO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/159278
-#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",73 TNT
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0q7
-#EXTINF:1  group-title="CINE" tvg-id="502dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",74 TNT HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0kp
-#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",75 TNT
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00g
-#EXTINF:1  group-title="CINE" tvg-id="502dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",76 TNT HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a05e
-#EXTINF:0 tvg-id="TNT.ar" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",77 TNT
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/402
-#EXTINF:0 tvg-id="tnt" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",78 TNT HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/401
-#EXTINF:0 tvg-id="TNT.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg",79 TNT HD DUAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/400
-#EXTINF:1  group-title="CINE" tvg-id="504dtv.cl" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png",80 TCM
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0q4
-#EXTINF:1  group-title="CINE" tvg-id="504dtv.cl" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png",81 TCM
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00e
-#EXTINF:0 tvg-id="TCM.mx" group-title="CINE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png",82 TCM
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/403
-#EXTINF:1  group-title="CINE" tvg-id="518dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",83 SPACE HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0l7
-#EXTINF:1  group-title="CINE" tvg-id="518dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",84 SPACE
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a028
-#EXTINF:1  group-title="CINE" tvg-id="518dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",85 SPACE HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a050
-#EXTINF:0 tvg-id="SPACEHD.ca" group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",86 SPACE HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/408
-#EXTINF:0 tvg-id="Space.mx" group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png",87 SPACE FHD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/407
-#EXTINF:1  group-title="CINE" tvg-id="210dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",88 AMC
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a189
-#EXTINF:1  group-title="CINE" tvg-id="210dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",89 AMC HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a13z
-#EXTINF:1  group-title="CINE" tvg-id="210dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",90 AMC
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a049
-#EXTINF:1  group-title="CINE" tvg-id="210dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",91 AMC HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a02z
-#EXTINF:0 tvg-id="mgm-int" group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",92 AMC
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/23266
-#EXTINF:0 tvg-id="AMC.uk" group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",93 AMC HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/29924
-#EXTINF:0 tvg-id="AMC.mx" group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png",94 AMC HD (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/473
-#EXTINF:1  group-title="CINE" tvg-id="508dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",95 STUDIO UNIVERSAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a180
-#EXTINF:1  group-title="CINE" tvg-id="508dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",96 STUDIO UNIVERSAL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0xm
-#EXTINF:1  group-title="CINE" tvg-id="508dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",97 STUDIO UNIVERSAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00v
-#EXTINF:1  group-title="CINE" tvg-id="508dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",98 STUDIO UNIVERSAL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a034
-#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207719.jpg",99 STUDIO UNIVERSAL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/405
-#EXTINF:1  group-title="CINE" tvg-id="507dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/7923674.jpg",100 CINECANAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a15j
-#EXTINF:1  group-title="CINE" tvg-id="507dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/7923674.jpg",101 CINECANAL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0iv
-#EXTINF:1  group-title="CINE" tvg-id="507dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/7923674.jpg",102 CINECANAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a008
-#EXTINF:1  group-title="CINE" tvg-id="507dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/7923674.jpg",103 CINECANAL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a02y
-#EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/7923674.jpg",104 CINECANAL DUAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/466
-#EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/7923674.jpg",105 CINECANAL HD DUAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/465
-#EXTINF:1  group-title="CINE" tvg-id="1509dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg",106 CINEMAX
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a185
-#EXTINF:1  group-title="CINE" tvg-id="1509dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg",107 CINEMAX HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0kw
-#EXTINF:1  group-title="CINE" tvg-id="1509dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg",108 CINEMAX
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a025
-#EXTINF:1  group-title="CINE" tvg-id="1509dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg",109 CINEMAX HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a05d
-#EXTINF:0 tvg-id="CinemaxEast.us" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg",110 CINEMAX
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/467
-#EXTINF:0 tvg-id="CinemaxEastHD.us" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg",111 CINEMAX HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/32631
-#EXTINF:0 tvg-id="CinemaxEastHD.us" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg",112 CINEMAX FHD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/25161
-#EXTINF:1  group-title="CINE" tvg-id="510dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png",113 PARAMOUNT NETWORK
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a183
-#EXTINF:1  group-title="CINE" tvg-id="510dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png",114 PARAMOUNT NETWORK HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0j0
-#EXTINF:1  group-title="CINE" tvg-id="510dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png",115 PARAMOUNT NETWORK
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a04p
-#EXTINF:1  group-title="CINE" tvg-id="510dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png",116 PARAMOUNT NETWORK HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a033
-#EXTINF:0 tvg-id="Paramounthd.br" group-title="CINE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png",117 PARAMOUNT HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/417
-#EXTINF:0 tvg-id="Paramounthd.br" group-title="CINE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png",118 PARAMOUNT FHD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/416
-#EXTINF:1  group-title="CINE" tvg-id="axn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",119 AXN
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a181
-#EXTINF:1  group-title="CINE" tvg-id="axn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",120 AXN HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0l6
-#EXTINF:1  group-title="CINE" tvg-id="axn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",121 AXN
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a027
-#EXTINF:1  group-title="CINE" tvg-id="axn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",122 AXN HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a04z
-#EXTINF:0 tvg-id="AXN.ar" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",123 AXN (AR)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17489
-#EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",124 AXN (CO)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/470
-#EXTINF:0 tvg-id="AXN.mx" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",125 AXN (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/468
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="fox.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",126 STAR CHANNEL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a15p
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="fox.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",127 STAR CHANNEL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0jd
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="fox.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",128 STAR CHANNEL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00d
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="fox.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",129 STAR CHANNEL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a03u
-#EXTINF:0 tvg-id="otr" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",130 STAR CHANNEL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/457
-#EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",131 STAR CHANNEL HD MX
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/456
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="208dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10020495.jpg",132 SONY HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0l4
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="208dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10020495.jpg",133 SONY
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a026
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="208dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10020495.jpg",134 SONY HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a04x
-#EXTINF:0 tvg-id="set" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",135 SONY HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/411
-#EXTINF:0 tvg-id="set" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg",136 SONY
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/410
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1206dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10640425.jpg",137 WARNER
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a182
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1206dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10640425.jpg",138 WARNER HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a12b
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1206dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10640425.jpg",139 WARNER
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a013
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1206dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10640425.jpg",140 WARNER HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a04y
-#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10640425.jpg",141 WARNER HD DUAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/386
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="222dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12396704.jpg",142 E!
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a169
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="222dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12396704.jpg",143 E!
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a014
-#EXTINF:0 tvg-id="ext" group-title="CULTURALES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12396704.jpg",144 E! ENTERTAIMENTS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/352
-#EXTINF:0 tvg-id="ext" group-title="CULTURALES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12396704.jpg",145 E! ENTERTAIMENTS HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/351
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="218dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg",146 UNIVERSAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a17z
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="218dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg",147 UNIVERSAL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0je
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="218dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg",148 UNIVERSAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00v
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="218dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg",149 UNIVERSAL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a034
-#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg",150 UNIVERSAL TV HD (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/394
-#EXTINF:0 tvg-id="UniversalChannel.ar" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg",151 UNIVERSAL TV (AR)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/25834
-#EXTINF:0 tvg-id="UniversalChannel.ar" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg",152 UNIVERSAL TV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/43050
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="217dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg",153 FX HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0jl
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="217dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg",154 FX
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a029
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="217dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg",155 FX HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a02s
-#EXTINF:0 tvg-id="FX.uk" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg",156 FX
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/441
-#EXTINF:0 tvg-id="FX.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg",157 FX HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/440
-#EXTINF:0 tvg-id="FX.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg",158 FX HD DUAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/29922
-#EXTINF:0 tvg-id="Golden.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665437.jpg",159 GOLDEN
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/437
-#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665570.jpg",160 GOLDEN EDGE
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/434
-#EXTINF:0 tvg-id="TBS.ar" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2207793.jpg",161 TBS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/44508
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="hbo.py" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png",162 HBO HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0j6
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="hbo.py" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png",163 HBO HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a187
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="hbo.py" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png",164 HBO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a024
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="hbo.py" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png",165 HBO HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a031
-#EXTINF:0 tvg-id="HBO.hu" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png",166 HBO HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/431
-#EXTINF:0 tvg-id="HBO.hu" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png",167 HBO FHD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/430
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="525dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",168 HBO 2 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0j3
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="525dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",169 HBO 2 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00q
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="525dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",170 HBO 2 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a036
-#EXTINF:0 tvg-id="HBO2.mx" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",171 HBO 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/429
-#EXTINF:0 tvg-id="HBO2.pl" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",172 HBO 2 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/428
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1534dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png",173 HBO FAMILY HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0ls
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1534dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png",174 HBO FAMILY
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00t
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="1534dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png",175 HBO FAMILY HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a040
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png",176 HBO FAMILY
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/426
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="526dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png",177 HBO PLUS HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00r
-#EXTINF:0 tvg-id="Hboplus.br" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png",178 HBO PLUS HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/424
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="542dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png",179 HBO XTREME
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a188
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="542dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png",180 HBO XTREME HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a157
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="542dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png",181 HBO XTREME
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00s
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="542dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png",182 HBO XTREME HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a041
-#EXTINF:0 tvg-id="Maxprime.br" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png",183 HBO XTREME HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/419
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="HBOSignature.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png",184 HBO SIGNATURE HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a17i
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="HBOSignature.us" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png",185 HBO SIGNATURE HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a08n
-#EXTINF:0 tvg-id="HBOSignature.us" group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png",186 HBO SIGNATURE HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/422
-#EXTINF:0 tvg-id="Maxup.br" group-title="CINE",187 HBO POP HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/420
-#EXTINF:0 tvg-id="AyE.ar" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901433.jpg",188 A&E SD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/472
-#EXTINF:0 tvg-id="AyE.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901433.jpg",189 A&E HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/471
-#EXTINF:0 tvg-id="CineLatino.mx" group-title="CINE",190 CINE LATINO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/462
-#EXTINF:0 tvg-id="ext" group-title="CINE",191 ULTRA CINE
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/18814
-#EXTINF:0 tvg-id="ext" group-title="CINE",192 ULTRA FAMILIA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/18813
-#EXTINF:0 tvg-id="ext" group-title="CINE",193 ULTRA CLASICO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/18812
-#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg",194 UNIVERSAL TV HD (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/394
-#EXTINF:0 tvg-id="UniversalChannel.ar" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg",195 UNIVERSAL TV (AR)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/25834
-#EXTINF:0 tvg-id="UniversalChannel.ar" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg",196 UNIVERSAL TV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/43050
-#EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.945333694_UniversalCinema-Oscuro.png.e63c480dba6854e26515abfbd89a7462.png",197 UNIVERSAL CINEMA HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/18643
-#EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.e65dc4d48dd85ff7276cc4d0caff986d.png",198 UNIVERSAL CRIME
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/450
-#EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.836711264_UniversalPremiere-Oscuro.png.ed806acf00aafe73ba9f67f14b2d8a35.png",199 UNIVERSAL PREMIERE
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/393
-#EXTINF:0 tvg-id="ext" group-title="CINE" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.395393765_UniversalReality-Oscuro.png.3bf4accf35b657d0e7e084feea1449af.png",200 UNIVERSAL REALITY HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/451
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="213dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg",201 TNT SERIES
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0jk
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="213dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg",202 TNT SERIES
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a04r
-#EXTINF:0 tvg-id="TNTSerie.br" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg",203 TNT SERIES HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/398
-#EXTINF:0 tvg-id="TNTSerie.br" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg",204 TNT SERIES FHD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/397
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="tlnovelas.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12531651.jpg",205 TL NOVELAS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a13u
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="tlnovelas.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12531651.jpg",206 TL NOVELAS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a08c
-#EXTINF:0 tvg-id="ext" group-title="CINE",207 TNT NOVELAS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/399
-#EXTINF:0 tvg-id="ext" group-title="CINE",208 TNT NOVELAS SD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/23601
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="228dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11695256.jpg",209 LIFETIME
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0vg
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="228dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11695256.jpg",210 LIFETIME
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00k
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="215dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901894.jpg",211 COMEDY CENTRAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a17m
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="215dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901894.jpg",212 COMEDY CENTRAL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a17k
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="215dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901894.jpg",213 COMEDY CENTRAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a046
-#EXTINF:0 tvg-id="ComedyCentral.ar" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901894.jpg",214 COMEDY CENTRAL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/463
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="231dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png",215 TELEMUNDO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a16l
-#EXTINF:1  group-title="ENTRETENIMIENTO" tvg-id="231dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png",216 TELEMUNDO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a01f
-#EXTINF:0 tvg-id="ext" group-title="USA-ES",217 USA-ES: TELEMUNDO INTERNACIONAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/6199
-#EXTINF:1  group-title="DEPORTES" tvg-id="espn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png",218 ESPN
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0o9
-#EXTINF:1  group-title="DEPORTES" tvg-id="espn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png",219 ESPN
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a01x
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png",220 ESPN (CO)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17828
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png",221 ESPN (PE)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/158566
-#EXTINF:0 tvg-id="ESPN.cl" group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png",222 ESPN HD (CL)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/158405
-#EXTINF:0 tvg-id="ESPN2.ar" group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png",223 ESPN (AR)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/43844
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png",224 ESPN (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/1075
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png",225 ESPN HD (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/80
-#EXTINF:1  group-title="DEPORTES" tvg-id="espn-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",226 ESPN 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0qt
-#EXTINF:1  group-title="DEPORTES" tvg-id="espn-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",227 ESPN 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a016
-#EXTINF:1  group-title="DEPORTES" tvg-id="espn-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",228 ESPN 2 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a051
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",229 ESPN 2 (PE)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/76
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",230 ESPN 2 FHD (CO)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/16231
-#EXTINF:0 tvg-id="ESPN.ar" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",231 ESPN 2 (AR)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/18192
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",232 ESPN 2 (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/1043
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg",233 ESPN 2 HD (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/79
-#EXTINF:1  group-title="DEPORTES" tvg-id="espn-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",234 ESPN 3
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0p2
-#EXTINF:1  group-title="DEPORTES" tvg-id="espn-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",235 ESPN 3
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a02h
-#EXTINF:1  group-title="DEPORTES" tvg-id="espn-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",236 ESPN 3 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a05b
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",237 ESPN 3 (CO)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/77
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",238 ESPN 3 HD (CO)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/49574
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",239 ESPN 3 HD (AR)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/78
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",240 ESPN 3 (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/1078
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg",241 ESPN 3 HD (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/81
-#EXTINF:0 tvg-id="FoxSports.mx" group-title="DEPORTES",242 FOX SPORTS PREMIUM (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/88
-#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",243 FOX SPORTS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0jx
-#EXTINF:0 tvg-id="FoxSports.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",244 FOX SPORTS (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/87
-#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg",245 FOX SPORTS 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg",246 FOX SPORTS 2 HD (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/90
-#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg",247 FOX SPORTS 3
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a01e
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg",248 FOX SPORTS 3 (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/91
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg",249 FOX SPORTS 3 HD (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/92
-#EXTINF:0 tvg-id="FoxSports.ar" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",250 FOX SPORTS HD (AR)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/53316
-#EXTINF:0 tvg-id="FoxSports.ar" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",251 FOX SPORTS (AR)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2351
-#EXTINF:0 tvg-id="FoxSports2.ar" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg",252 FOX SPORTS 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2352
-#EXTINF:0 tvg-id="FoxSports2.ar" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg",253 FOX SPORTS 2 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17756
-#EXTINF:0 tvg-id="FoxSports3.ar" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg",254 FOX SPORTS 3
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/85
-#EXTINF:0 tvg-id="FoxSports3.ar" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg",255 FOX SPORTS 3 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/18233
-#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",256 TUDN
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",257 TUDN
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",258 TUDN HD (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/16044
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",259 TUDN (USA)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/39463
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",260 TUDNXTRA 1
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/144039
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",261 TUDNXTRA 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/125943
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1024px-Claro_Sports_logo.svg.png",262 CLARO SPORTS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/68
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",263 CLARO SPORTS 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/47094
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",264 CLARO SPORTS 3
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/179640
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/px_sports-mediano.png",265 PX SPORTS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/104
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="DEPORTES",266 AZTECA DEPORTES
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/25919
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",267 ADRENALINA SPORTS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/23145
-#EXTINF:1  group-title="DEPORTES" tvg-id="tntsports2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png",268 TNT SPORTS HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0l8
-#EXTINF:1  group-title="DEPORTES" tvg-id="tntsports2.cl" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/64209d2e-8a4c-4056-bb24-836ce9f7922d.png?bf=0&f=jpg&p=true&q=70&w=1920",269 TNT SPORTS 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0ql
-#EXTINF:1  group-title="DEPORTES" tvg-id="tntsports2.cl" tvg-logo="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png",270 TNT SPORTS 3
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a18g
-#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="DEPORTES",271 BEIN SPORTS Ñ
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/39818
-#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="DEPORTES",272 BEIN SPORTS Ñ HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/118377
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",273 BEIN SPORTS XTRA Ñ
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/14470
-#EXTINF:0 tvg-id="ESPN4.br" group-title="DEPORTES",274 ESPN 4
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/1053
-#EXTINF:0 tvg-id="ESPN5.nl" group-title="DEPORTES",275 ESPN 5
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/144031
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",276 ESPN 5
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/83
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",277 ESPN 6
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/46356
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",278 ESPN 7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/84
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",279 ESPN PREMIUM
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/47185
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",280 GOLTV HD LAT
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/97
-#EXTINF:0 tvg-id="GolTV.us" group-title="DEPORTES",281 GOLTV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/125941
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",282 LIGA 1
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/140577
-#EXTINF:0 tvg-id="13C.cl" group-title="DEPORTES",283 LIGA 1 MAX
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/82
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",284 LIGA 1 MAX
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/174095
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",285 TyC SPORTS HD LOCAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2421
-#EXTINF:0 tvg-id="TyCSportsHD.ar" group-title="DEPORTES",286 TYC SPORTS HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/37985
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",287 GARAGE TV HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/107
-#EXTINF:0 tvg-id="GolfChannel.mx" group-title="DEPORTES",288 GOLF CHANNEL M+
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/108
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",289 WIN SPORTS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/105
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",290 WIN SPORTS HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/106
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",291 WIN SPORTS +
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17255
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",292 WIN SPORTS +
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17254
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",293 WIN SPORTS + HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/25921
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",294 WIN SPORTS + FHD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2525
-#EXTINF:0 tvg-id="Eurosport1.es" group-title="DEPORTES",295 EUROSPORTS 1 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/109
-#EXTINF:0 tvg-id="Eurosport1.es" group-title="DEPORTES",296 EUROSPORTS 1
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/110
-#EXTINF:0 tvg-id="Eurosport2.es" group-title="DEPORTES",297 EUROSPORTS 2 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/111
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",298 DAZN LA LIGA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/48284
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",299 VIX LA LIGA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/159347
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",300 S.K.Y LA LIGA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/169182
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",301 S.K.Y SPORTS BUNDESLIGA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/184040
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",302 S.K.Y_SPORTS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/179639
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",303 LA LIGA TV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/112
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",304 MOVISTAR LA LIGA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/122973
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",305 LIGA DE CAMPEONES FHD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/114
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",306 LIGA DE CAMPEONES 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/167732
-#EXTINF:0 tvg-id="ext" group-title="USA-ES",307 USA-ES: TUDN
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17015
-#EXTINF:0 tvg-id="ext" group-title="USA-ES",308 USA-ES: FOX DEPORTES
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/29451
-#EXTINF:1  group-title="CULTURALES" tvg-id="discoverychannel.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png",309 DISCOVERY CHANNEL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a166
-#EXTINF:1  group-title="CULTURALES" tvg-id="discoverychannel.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png",310 DISCOVERY CHANNEL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a011
-#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="CULTURALES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png",311 DISCOVERY CHANNEL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/372
-#EXTINF:0 tvg-id="discov_rus" group-title="CULTURALES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png",312 DISCOVERY CHANNEL SD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/18600
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="CULTURALES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png",313 DISCOVERY CHANNEL HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/19662
-#EXTINF:1  group-title="CULTURALES" tvg-id="742dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/19233379.jpg",314 HISTORY
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a15i
-#EXTINF:1  group-title="CULTURALES" tvg-id="742dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/19233379.jpg",315 HISTORY HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0uo
-#EXTINF:1  group-title="CULTURALES" tvg-id="742dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/19233379.jpg",316 HISTORY
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a007
-#EXTINF:1  group-title="CULTURALES" tvg-id="742dtv.co" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/19233379.jpg",317 HISTORY HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a04v
-#EXTINF:0 tvg-id="history-rus" group-title="CULTURALES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/19233379.jpg",318 HISTORY
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/347
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="CULTURALES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/19233379.jpg",319 HISTORY HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/346
-#EXTINF:1  group-title="CULTURALES" tvg-id="742dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",320 HISTORY 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a17s
-#EXTINF:1  group-title="CULTURALES" tvg-id="742dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",321 HISTORY 2 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0lr
-#EXTINF:1  group-title="CULTURALES" tvg-id="742dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",322 HISTORY 2
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a05i
-#EXTINF:1  group-title="CULTURALES" tvg-id="742dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",323 HISTORY 2 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a03z
-#EXTINF:0 tvg-id="H2.uk" group-title="CULTURALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",324 HISTORY 2 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/345
-#EXTINF:1  group-title="CULTURALES" tvg-id="730dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901849.jpg",325 NAT GEO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0pu
-#EXTINF:1  group-title="CULTURALES" tvg-id="730dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901849.jpg",326 NAT GEO HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0tj
-#EXTINF:1  group-title="CULTURALES" tvg-id="730dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901849.jpg",327 NAT GEO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a006
-#EXTINF:1  group-title="CULTURALES" tvg-id="730dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901849.jpg",328 NAT GEO HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a02w
-#EXTINF:0 tvg-id="natgeo" group-title="CULTURALES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901849.jpg",329 NAT GEO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/341
-#EXTINF:0 tvg-id="NatGeo.mx" group-title="CULTURALES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901849.jpg",330 NAT GEO HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/340
-#EXTINF:1  group-title="CULTURALES" tvg-id="discoveryhyh.mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png",331 H&H
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a163
-#EXTINF:1  group-title="CULTURALES" tvg-id="discoveryhyh.mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png",332 H&H
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a01k
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="CULTURALES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png",333 DISCOVERY H&H
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/365
-#EXTINF:0 tvg-id="ext" group-title="CULTURALES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png",334 DISCOVERY H&H  (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/22713
-#EXTINF:1  group-title="CULTURALES" tvg-id="223dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/223.png",335 DISCOVERY ID
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a161
-#EXTINF:1  group-title="CULTURALES" tvg-id="223dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/223.png",336 DISCOVERY ID
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a01i
-#EXTINF:0 tvg-id="id-extra" group-title="CULTURALES" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/223.png",337 DISCOVERY ID
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/368
-#EXTINF:0 tvg-id="id-extra" group-title="CULTURALES" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/223.png",338 DISCOVERY ID HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/367
-#EXTINF:0 tvg-id="id-extra" group-title="CULTURALES" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/223.png",339 DISCOVERY ID FHD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/19663
-#EXTINF:1  group-title="CULTURALES" tvg-id="736dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png",340 DISCOVERY TURBO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0p0
-#EXTINF:1  group-title="CULTURALES" tvg-id="736dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png",341 DISCOVERY TURBO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a01i
-#EXTINF:0 tvg-id="DiscoveryTurboPlus1.uk" group-title="CULTURALES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png",342 DISCOVERY TURBO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/359
-#EXTINF:0 tvg-id="Discturbohd.br" group-title="CULTURALES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png",343 DISCOVERY TURBO HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/358
-#EXTINF:1  group-title="CULTURALES"  tvg-id="740dtv.cl" tvg-logo="https://www.telelatinohd.com/img/discoverytlc.png",344 TLC
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0og
-#EXTINF:1  group-title="CULTURALES"  tvg-id="740dtv.cl" tvg-logo="https://www.telelatinohd.com/img/discoverytlc.png",345 TLC
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a01b
-#EXTINF:0 tvg-id="TLC.mx" group-title="CULTURALES" tvg-logo="https://www.telelatinohd.com/img/discoverytlc.png",346 TLC (MX)
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/355
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="CULTURALES" tvg-logo="https://www.telelatinohd.com/img/discoverytlc.png",347 TLC HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/14
-#EXTINF:1  group-title="CULTURALES" tvg-id="animalplanet.mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png",348 ANIMAL PLANET
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a17w
-#EXTINF:1  group-title="CULTURALES" tvg-id="animalplanet.mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png",349 ANIMAL PLANET HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0j5
-#EXTINF:1  group-title="CULTURALES" tvg-id="animalplanet.mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png",350 ANIMAL PLANET
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a012
-#EXTINF:1  group-title="CULTURALES" tvg-id="animalplanet.mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png",351 ANIMAL PLANET HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a038
-#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="CULTURALES" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png",352 ANIMAL PLANET
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/375
-#EXTINF:0 tvg-id="animal-hd" group-title="CULTURALES" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png",353 ANIMAL PLANET HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/374
-#EXTINF:0 tvg-id="Discoverytheaterhd.br" group-title="CULTURALES",354 DISCOVERY THEATER
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/361
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CULTURALES",355 DISCOVERY THEATER HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/360
-#EXTINF:0 tvg-id="discov_turbo-extra" group-title="CULTURALES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png",356 DISCOVERY WORLD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/357
-#EXTINF:0 tvg-id="ext" group-title="CULTURALES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png",357 DISCOVERY WORLD HD DUAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/356
-#EXTINF:0 tvg-id="DiscoveryFamilia.us" group-title="CULTURALES",358 DISCOVERY FAMILIA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/366
-#EXTINF:0 tvg-id="ElGourmetHD.cl" group-title="CULTURALES",359 EL GOURMET HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/353
-#EXTINF:0 tvg-id="food-network-rus" group-title="CULTURALES",360 FOOD NETWORK HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/349
-#EXTINF:0 tvg-id="HolaTV.us" group-title="CULTURALES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png",361 HOLA TV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/344
-#EXTINF:0 tvg-id="hgtv" group-title="CULTURALES",362 HGTV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/18
-#EXTINF:0 tvg-id="Maschic.mx" group-title="CULTURALES" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/230.png",363 MAS CHIC
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/336
-#EXTINF:0 tvg-id="Pasiones.us" group-title="MEXICO",364 PASIONES
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/129263
-#EXTINF:0 tvg-id="Pasiones.us" group-title="MEXICO",365 PASIONES HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2353
-#EXTINF:0 tvg-id="TruTV.uk" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901517.jpg",366 TRUTV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/396
-#EXTINF:0 tvg-id="TruTVHD.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901517.jpg",367 TRUTV HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/395
-#EXTINF:0 tvg-id="Unicable.mx" group-title="MEXICO" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/6755875.jpg",368 UNICABLE SD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/475
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg",369 DISTRITO COMEDIA SD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/18655
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="CINE" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg",370 DISTRITO COMEDIA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/461
-#EXTINF:0 tvg-id="ext" group-title="USA-ES",371 USA-ES: ESTRELLA TV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/36777
-#EXTINF:0 tvg-id="ext" group-title="USA-ES",372 USA-ES: TELEMUNDO INTERNACIONAL
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/6199
-#EXTINF:0 tvg-id="ext" group-title="USA-ES",373 USA-ES: UNIVERSO HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/16225
-#EXTINF:0 tvg-id="ext" group-title="USA-ES",374 USA-ES: UNIVISION HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/604
-#EXTINF:0 tvg-id="ext" group-title="USA-ES",375 USA-ES: UNIVISION TLNOVELAS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/20585
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONALES",376 TELEMUNDO INT CENTRO
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/33027
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONALES",377 TELEMUNDO INT SUR
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/32957
-#EXTINF:0 tvg-id="Bandamax.mx" group-title="MUSICALES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12251440.jpg",378 BANDAMAX
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/492
-#EXTINF:1  group-title="MUSICA" tvg-id="mtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901692.jpg",379 MTV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a15m
-#EXTINF:1  group-title="MUSICA" tvg-id="mtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901692.jpg",380 MTV HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0lj
-#EXTINF:1  group-title="MUSICA" tvg-id="mtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901692.jpg",381 MTV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00b
-#EXTINF:0 tvg-id="MTVLive.us" group-title="MUSICALES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_live_hd-mediano.png",382 MTV LIVE HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2247
-#EXTINF:0 tvg-id="MTVClassic.us" group-title="MUSICALES",383 MTV 80S
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/6639
-#EXTINF:0 tvg-id="TelehitHD.mx" group-title="MUSICALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png",384 TELEHIT
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2236
-#EXTINF:0 tvg-id="ext" group-title="MUSICALES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12251538.jpg",385 TELEHIT PLUS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2237
-#EXTINF:0 tvg-id="VH1.mx" group-title="MUSICALES",386 OYE TV
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2252
-#EXTINF:0 tvg-id="VH1.mx" group-title="MUSICALES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/vh1-mediano.png",387 VH1 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2238
-#EXTINF:0 tvg-id="vh-1-classic" group-title="MUSICALES" tvg-logo="https://1.bp.blogspot.com/-Ry2-ptKwl54/XbEy5yS3UGI/AAAAAAAAArQ/FL0X2nggsyI7aWFKJmzM5GAlXD9Z763EwCLcBGAsYHQ/s200/4.png",388 VH1 CLASSIC
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2253
-#EXTINF:0 tvg-id="ViaX.cl" group-title="MUSICALES",389 VIA X
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/47095
-#EXTINF:0 tvg-id="ext" group-title="MUSICALES",390 RETROPLUS 1
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/167774
-#EXTINF:0 tvg-id="ext" group-title="MUSICALES",391 MI MUSICA SALSA HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/167793
-#EXTINF:1  group-title="NOTICIAS" tvg-id="704dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901376.jpg",392 CNN ESP
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a0qe
-#EXTINF:1  group-title="NOTICIAS" tvg-id="704dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901376.jpg",393 CNN ESP
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a17b
-#EXTINF:1  group-title="NOTICIAS" tvg-id="704dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901376.jpg",394 CNN ESP
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/play/a00o
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONALES",395 CNN ESP
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/1681
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONALES",396 CNN ING
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/1682
-#EXTINF:0 tvg-id="ext" group-title="MEXICO"  tvg-logo="https://i.imgur.com/Og17U9N.png",397 ADN 40 SD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/508
-#EXTINF:0 tvg-id="ext" group-title="MEXICO"  tvg-logo="https://i.imgur.com/Og17U9N.png",398 ADN 40 HD
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/507
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONALES",399 AL JAZZERA
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/1680
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONALES",400 DW LAT
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/172585
-#EXTINF:0 tvg-id="RTEspanol.es" group-title="INTERNACIONALES",401 RT NOTICIAS
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/388
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",402 ALF 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2522
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",403 SCOOBY DOO 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17749
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",404 HEY ARNOLD 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2368
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",405 BOB ESPONJA 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2369
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",406 CABALLEROS DEL ZODIACO 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17754
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",407 EL GALLO CLAUDIO 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17746
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",408 ANIMANIACS 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17745
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",409 EL PAJARO LOCO 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/129301
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",410 DRAGON BALL GT 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/20230
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",411 EL CHAVO DEL 8 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/25169
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",412 DOS HOMBRES Y MEDIO 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2372
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",413 RANMA 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/129302
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",414 TWO AND A HALF MEN 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17434
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",415 EL PRINCIPE DEL RAP 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17747
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",416 TOM Y JERRY 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17753
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",417 LOONEY TUNES 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2374
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",418 SAKURA 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17755
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",419 LOS SIMPSONS 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2373
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",420 CHESPIRITO 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17744
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",421 YU-GI-OH 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17748
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",422 LOS PICAPIEDRAS 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/2376
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",423 DORAEMON 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17752
-#EXTINF:0 tvg-id="ext" group-title="CANALES 24/7",424 LA PANTERA ROSA 24/7
-https://static.videezy.com/system/resources/previews/000/034/644/original/Boy_plane8.mp4/Hagen-9837hg/Hgdf-8276g/17750
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.Azteca.Uno.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg", 1 AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.Azteca.Uno.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg", 2 AZTECA UNO
+http://148.230.149.45:1021/play/a06j/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg", 3 LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg", 4 LAS ESTRELLAS
+http://148.230.149.45:1021/play/a06z/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg", 5 CANAL 5 HD
+http://148.230.149.45:1021/play/a070/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg", 6 CANAL 5 HD
+http://200.229.147.142:8000/play/a06t/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg", 7 CANAL 5 HD
+http://200.229.147.142:8000/play/a06t/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg", 8 AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg", 9 AZTECA 7
+http://148.230.149.45:1021/play/a072/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg", 10 AZTECA 7
+http://200.229.147.142:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="NACIONALES" tvg-id="" tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento", 11 Imagen TV+
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Entretenimiento", 12 Imagen TV+
+http://148.230.149.45:1021/play/a020/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 13 TVCuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.Multimedios.Plus.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 14 Multimedios Bajio
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.Multimedios.Plus.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 15 Multimedios Bajio
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.Telefórmula.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 16 Teleformula MX
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.ADN.40.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 17 ADN 40 MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="Canal.Milenio.TV.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 18 Milenio MX
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:1 group-title="DEPORTES"tvg-id="Canal.Fox.Sports.(México).mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg", 19 FOX SPORTS (MX)
+http://200.229.147.142:8000/play/a06a/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="Canal.Fox.Sports.2.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg", 20 FOX SPORTS 2 MX
+http://200.229.147.142:8000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes", 21 Fox Deportes en Tubi
+https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", 22 TUDN
+http://200.229.147.142:8000/play/a096/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 23 AZTECA DEPORTES 
+http://148.230.149.45:1021/play/a076/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 24 BUNDESLIGA
+http://200.229.147.142:8000/play/a05b/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 25 Claro Sports 1 HD
+http://148.230.149.45:1021/play/a00b/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 26 Claro Sports HD
+http://200.229.147.142:8000/play/a06o/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="ESPN.MX.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 27 ESPN 1 CA
+http://200.229.147.142:8000/play/a05v/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="espn-2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg", 28 ESPN 2 CA
+http://200.229.147.142:8000/play/a03b/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="espn-3.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg", 29 ESPN 3
+http://200.229.147.142:8000/play/a02h/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 30 ESPN 4
+http://200.229.147.142:8000/play/a05s/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 31 ESPN 5
+http://38.224.22.252:8000/play/a02y/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 32 ESPN 5 HD CA
+http://200.229.147.142:8000/play/a05y/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 33 ESPN 6
+http://38.224.22.252:8000/play/a08c/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="Canal.Golf.Channel.(Latinoamérica).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 34 Golf Channel HD
+http://148.230.149.45:1021/play/a063/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="Canal.Golf.Channel.(Latinoamérica).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 35 Golf Channel HD
+http://200.229.147.142:8000/play/a026/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 36 Latin America Sport
+http://38.224.22.252:8000/play/a020/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 37 Latin America Sport
+http://200.229.147.142:8000/play/a02k/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 38 PXTV
+http://200.229.147.142:8000/play/a02j/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 39 TD+HD CR
+http://200.229.147.142:8000/play/a00d/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 40 TD+2 HD CR
+http://200.229.147.142:8000/play/a00e/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="Canal.TVC.Deportes.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 41 TVC DEPORTES HD
+http://200.229.147.142:8000/play/a05g/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 42 Tigo Sports HD
+http://200.229.147.142:8000/play/a03i/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.BabyFirst.TV.mx" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/BABYFIRST/EXPORTACION_WEB/SS/BABYFIRST_t-290x163.png", 43 BABY FIRST
+http://200.229.147.142:8000/play/a02a/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.BabyFirst.TV.mx" tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/BABYFIRST/EXPORTACION_WEB/SS/BABYFIRST_t-290x163.png", 44 BABY FIRST
+http://148.230.149.45:1021/play/a05l/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.Baby.TV.(Latinoamérica).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11006189.jpg", 45 BABY TV
+http://200.229.147.142:8000/play/a002/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901546.jpg", 46 CARTOON NETWORK HD
+http://38.224.22.252:8000/play/a05f/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.Cartoon.Network.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901546.jpg", 47 CARTOON NETWORK
+http://148.230.149.45:1021/play/a014/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.Cartoonito.(México).mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png", 48 CARTOONITO
+http://200.229.147.142:8000/play/a011/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.Cartoonito.(México).mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png", 49 CARTOONITO
+http://148.230.149.45:1021/play/a015/index.m3u8
+#EXTINF:0 tvg-id="Canal.Discovery.Kids.(México).mx" group-title="INFANTILES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png", 50 DISCOVERY KIDS HD
+http://200.229.147.142:8000/play/a00f/index.m3u8
+#EXTINF:0 tvg-id="Canal.Discovery.Kids.(México).mx" group-title="INFANTILES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png", 51 DISCOVERY KIDS
+http://148.230.149.45:1021/play/a02s/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.Disney.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png", 52 DISNEY CHANNEL
+http://38.224.22.252:8000/play/a02c/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.Disney.Channel.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png", 53 DISNEY CHANNEL
+http://148.230.149.45:1021/play/a02q/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.Disney.Junior.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901963.jpg", 54 DISNEY JR
+http://200.229.147.142:8000/play/a012/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.Disney.Junior.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901963.jpg", 55 DISNEY JR
+http://148.230.149.45:1021/play/a013/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="Canal.Nick.Jr..(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901545.jpg", 56 NICK JR
+http://148.230.149.45:1021/play/a02r/index.m3u8
+#EXTINF:1 group-title="INFANTILES" tvg-id="Canal.Tooncast.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast-mediano.png", 57 TOONCAST
+http://200.229.147.142:8000/play/a02z/index.m3u8
+#EXTINF:1 group-title="INFANTILES" tvg-id="Canal.Tooncast.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast-mediano.png", 58 TOONCAST
+http://38.224.22.252:8000/play/a06y/index.m3u8
+#EXTINF:1  group-title="INFANTILES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 59 SEMILLITAS
+http://200.229.147.142:8000/play/a014/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.A&amp;E.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 60 A&E HD
+http://200.229.147.142:8000/play/a01x/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.A&amp;E.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 61 A&E HD
+http://148.230.149.45:1021/play/a00z/index.m3u8
+#EXTINF:1 group-title="CINE" tvg-id="Canal.AMC.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png", 62 AMC HD
+http://200.229.147.142:8000/play/a01y/index.m3u8
+#EXTINF:1 group-title="CINE" tvg-id="Canal.AMC.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png", 63 AMC HD
+http://148.230.149.45:1021/play/a05r/index.m3u8
+#EXTINF:1 group-title="CINE" tvg-id="Canal.AMC.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica-mediano.png", 64 AMC HD
+http://181.78.211.244:8005/play/a035/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.AXN.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 65 AXN HD
+http://200.229.147.142:8000/play/a027/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.AXN.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 66 AXN HD
+http://148.230.149.45:1021/play/a073/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.AXN.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 67 AXN HD
+http://38.199.4.105:9999/play/a0mo/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Cinecanal.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 68 CINECANAL HD
+http://200.229.147.142:8000/play/a03g/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Cinecanal.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 69 CINECANAL HD
+http://148.230.149.45:1021/play/a00f/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Cinemax.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg", 70 CINEMAX
+http://38.199.4.105:9999/play/a0o9/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Cinemax.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg", 71 CINEMAX
+http://148.230.149.45:1021/play/a01n/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Cinemax.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg", 72 CINEMAX
+http://181.78.211.244:8005/play/a07t/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Cinemax.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg", 73 CINEMAX
+http://200.229.147.142:8000/play/a04h/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.De.Película.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg", 74 DE PELICULA
+http://200.229.147.142:8000/play/a080/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.De.Película.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg", 75 DE PELICULA
+http://38.199.4.105:9999/play/a09b/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.FX.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg", 76 FX HD
+http://200.229.147.142:8000/play/a020/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.FX.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg", 77 FX HD
+http://148.230.149.45:1021/play/a01h/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Film.&amp;.Arts.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 78 Film & arts HD
+http://200.229.147.142:8000/play/a01w/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Film.&amp;.Arts.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 79 Film & arts
+http://148.230.149.45:1021/play/a05m/index.m3u8
+#EXTINF:0 group-title="CINE" tvg-id="Canal.Golden.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665437.jpg", 80 GOLDEN
+http://200.229.147.142:8000/play/a02n/index.m3u8
+#EXTINF:0 group-title="CINE" tvg-id="Canal.Golden.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12665437.jpg", 81 GOLDEN
+http://38.224.22.252:8000/play/a024/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Golden.Premier.2.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 82 Golden Premiere 2 HD
+http://200.229.147.142:8000/play/a00h/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Golden.Premier.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 83 Golden Premiere HD
+http://200.229.147.142:8000/play/a00g/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png", 84 HBO FAMILY HD
+http://200.229.147.142:8000/play/a06q/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png", 85 HBO FAMILY HD
+http://148.230.149.45:1021/play/a00j/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.HBO.(México).mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png", 86 HBO HD
+http://200.229.147.142:8000/play/a00q/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.HBO.(México).mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png", 87 HBO HD
+http://148.230.149.45:1021/play/a019/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.HBO.Plus.mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png", 88 HBO PLUS HD
+http://200.229.147.142:8000/play/a00s/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.HBO.Plus.mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png", 89 HBO PLUS HD
+http://148.230.149.45:1021/play/a00k/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="542dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png", 90 HBO XTREME
+http://200.229.147.142:8000/play/a00t/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="542dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png", 91 HBO XTREME
+http://148.230.149.45:1021/play/a01q/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 92 HBO2 HD
+http://148.230.149.45:1021/play/a00i/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.HBO.Signature.Latinoamérica.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png", 93 HBO SIGNATURE
+http://148.230.149.45:1021/play/a05e/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.HBO.Mundi.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png", 94 HBO MUNDI
+http://148.230.149.45:1021/play/a05i/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Lifetime.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 95 LIFE TIME
+http://200.229.147.142:8000/play/a01c/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Lifetime.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 96 LIFE TIME
+http://148.230.149.45:1021/play/a007/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 97 Multicinema
+http://200.229.147.142:8000/play/a02p/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 98 Multicinema
+http://38.224.22.252:8000/play/a026/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 99 Multipremier
+http://200.229.147.142:8000/play/a04f/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 100 Multipremier
+http://148.230.149.45:1021/play/a00e/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Sony.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10020495.jpg", 101 SONY HD
+http://200.229.147.142:8000/play/a03f/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Sony.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10020495.jpg", 102 SONY HD
+http://148.230.149.45:1021/play/a02m/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Space.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png", 103 SPACE HD
+http://200.229.147.142:8000/play/a04p/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Space.(México).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png", 104 SPACE HD
+http://148.230.149.45:1021/play/a005/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Star.Channel.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg", 105 STAR CHANNEL HD
+http://200.229.147.142:8000/play/a03d/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Star.Channel.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg", 106 STAR CHANNEL
+http://148.230.149.45:1021/play/a01f/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 107 Sony Movies HD
+http://200.229.147.142:8000/play/a022/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 108 Sony Movies HD
+http://38.224.22.252:8000/play/a03b/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Studio.Universal.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 109 Studio Universal HD
+http://200.229.147.142:8000/play/a01t/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Studio.Universal.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 110 Studio Universal HD
+http://148.230.149.45:1021/play/a03x/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Studio.Universal.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 111 Universal HD
+http://200.229.147.142:8000/play/a04d/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Studio.Universal.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 112 Universal HD
+http://148.230.149.45:1021/play/a00x/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 113 Sun Channel
+http://200.229.147.142:8000/play/a02g/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 114 Sun Channel
+http://38.224.22.252:8000/play/a01v/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.TCM.(México).mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png", 115 TCM
+http://200.229.147.142:8000/play/a02o/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.TCM.(México).mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png", 116 TCM
+http://38.224.22.252:8000/play/a025/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 117 Cine Mexicano
+http://200.229.147.142:8000/play/a08k/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 118 Cine Latino
+http://200.229.147.142:8000/play/a04g/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 119 Cine Latino
+http://148.230.149.45:1021/play/a01o/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.TNT.Novelas.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg", 120 TNT HD
+http://148.230.149.45:1021/play/a02w/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.TNT.Novelas.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901855.jpg", 121 TNT HD
+http://38.224.22.252:8000/play/a01a/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Warner.TV.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 122 WARNER HD
+http://200.229.147.142:8000/play/a03e/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="Canal.Warner.TV.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 123 WARNER HD
+http://148.230.149.45:1021/play/a004/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 124 Cine Hispano
+http://200.229.147.142:8000/play/a07x/index.m3u8
+#EXTINF:1  group-title="CINE" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 125 Cine Premium 
+http://200.229.147.142:8000/play/a082/index.m3u8
+#EXTINF:0 group-title="CINE" tvg-id="Canal.Golden.Edge.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", 126 GOLDEN EDGE
+http://181.78.211.244:8005/play/a091/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 127 Discovery Channel HD
+http://148.230.149.45:1021/play/a02t/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png", 128 ANIMAL PLANET HD
+http://38.224.22.252:8000/play/a033/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png", 129 ANIMAL PLANET
+http://148.230.149.45:1021/play/a02u/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 130 DHE HD
+http://200.229.147.142:8000/play/a023/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Discovery.Theater.(Latinoamérica).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 131 DISC TEATHER HD
+http://200.229.147.142:8000/play/a03l/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Discovery.Theater.(Latinoamérica).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 132 DISC TEATHER HD
+http://148.230.149.45:1021/play/a0ab/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Discovery.Home.&amp;.Health.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 133 Discovery Home & Health
+http://38.224.22.252:8000/play/a02g/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Discovery.Home.&amp;.Health.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 134 Discovery Home & Health
+http://148.230.149.45:1021/play/a010/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Discovery.Science.(Latinoamérica).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 135 Discovery Science
+http://200.229.147.142:8000/play/a008/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Discovery.Turbo.(Latinoamérica).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png", 136 DISCOVERY TURBO
+http://200.229.147.142:8000/play/a046/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Discovery.Turbo.(Latinoamérica).mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png", 137 DISCOVERY TURBO
+http://148.230.149.45:1021/play/a018/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.History.2.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 138 H2
+http://200.229.147.142:8000/play/a02e/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.History.2.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 139 H2
+http://148.230.149.45:1021/play/a02c/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.History.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 140 History HD
+http://200.229.147.142:8000/play/a01o/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.History.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 141 History Channel
+http://148.230.149.45:1021/play/a02v/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 142 Home Garden Latino
+http://200.229.147.142:8000/play/a007/index.m3u8
+#EXTINF:1  group-title="CULTURALES"  tvg-id="Canal.TLC.(México).mx" tvg-logo="https://www.telelatinohd.com/img/discoverytlc.png", 143 TLC
+http://200.229.147.142:8000/play/a039/index.m3u8
+#EXTINF:1  group-title="CULTURALES"  tvg-id="Canal.TLC.(México).mx" tvg-logo="https://www.telelatinohd.com/img/discoverytlc.png", 144 TLC
+http://148.230.149.45:1021/play/a011/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Investigation.Discovery.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 145 Discovery ID HD
+http://38.224.22.252:8000/play/a08j/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Investigation.Discovery.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 146 Discovery ID HD
+http://148.230.149.45:1021/play/a006/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.Discovery.World.Latinoamérica.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 147 Discovery World HD
+http://38.224.22.252:8000/play/a08g/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.National.Geographic.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901849.jpg", 148 NAT GEO HD
+http://38.224.22.252:8000/play/a07k/index.m3u8
+#EXTINF:1  group-title="CULTURALES" tvg-id="Canal.National.Geographic.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 149 National Geographic
+http://148.230.149.45:1021/play/a00a/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.Antena.3.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 150 Antena 3
+http://148.230.149.45:1021/play/a00y/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.Atreseries.(Internacional).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 151 Atres Series
+http://200.229.147.142:8000/play/a00a/index.m3u8
+#EXTINF:0 group-title="TV" tvg-id="Canal.Distrito.Comedia.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg", 152 DISTRITO COMEDIA SD
+http://38.199.4.105:9999/play/a0gl/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 153 Comedy Central HD
+http://38.199.4.105:9999/play/a0av/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.DW.(Latinoamérica).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 154 DW
+http://200.229.147.142:8000/play/a06c/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.E!.Entertainment.Television.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 155 E! HD
+http://200.229.147.142:8000/play/a01v/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.E!.Entertainment.Television.(México).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 156 E!
+http://38.224.22.252:8000/play/a034/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 157 EURO Channel
+http://200.229.147.142:8000/play/a02d/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.EWTN.en.Español.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 158 EWTN
+http://200.229.147.142:8000/play/a01n/index.m3u8
+#EXTINF:0 group-title="CULTURALES" tvg-id="Canal.Elgourmet.mx", 159 EL GOURMET HD
+http://200.229.147.142:8000/play/a02f/index.m3u8
+#EXTINF:0 group-title="CULTURALES" tvg-id="Canal.Elgourmet.mx", 160 EL GOURMET HD
+http://148.230.149.45:1021/play/a05o/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.Europa.Europa.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 161 Europa HD
+http://200.229.147.142:8000/play/a021/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.Europa.Europa.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 162 Europa HD
+http://148.230.149.45:1021/play/a05n/index.m3u8
+#EXTINF:0 group-title="TV" tvg-id="" tvg-logo="", 163 DREAM WORKS
+http://200.229.147.142:8000/play/a05d/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 164 Guatevision GUA
+http://200.229.147.142:8000/play/a00w/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.¡HOLA!.TV.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 165 HOLA! TV HD
+http://200.229.147.142:8000/play/a03n/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.¡HOLA!.TV.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 166 HOLA! TV HD
+http://148.230.149.45:1021/play/a026/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 167 La voz de Maria
+http://200.229.147.142:8000/play/a049/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 168 MEGACLASICOS
+http://200.229.147.142:8000/play/a05w/index.m3u8
+#EXTINF:1 group-title="TV" tvg-id="Canal.Más.Chic.Latinoamérica.mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/230.png", 169 MAS CHIC
+http://200.229.147.142:8000/play/a004/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.Multimedios.Plus.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 170 Multimedios CR
+http://200.229.147.142:8000/play/a00j/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Pasiones.us" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 171 Pasiones
+http://200.229.147.142:8000/play/a00k/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Pasiones.us" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 172 Pasiones HD
+http://148.230.149.45:1021/play/a0a5/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 173 RCN Novelas
+http://200.229.147.142:8000/play/a02c/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 174 Sembrador
+http://200.229.147.142:8000/play/a076/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 175 Star TVE HD
+http://200.229.147.142:8000/play/a025/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png", 176 TELEMUNDO MIAMI
+http://200.229.147.142:8000/play/a064/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png", 177 TELEMUNDO
+http://200.229.147.142:8000/play/a016/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.Telemundo.(México).mx" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png", 178 TELEMUNDO HD
+http://200.229.147.142:8000/play/a01z/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 179 TELESUR
+http://200.229.147.142:8000/play/a06e/index.m3u8
+#EXTINF:1 group-title="TV" tvg-id="Canal.TNT.Novelas.(México).mx", 180 TNT NOVELAS
+http://200.229.147.142:8000/play/a01a/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 181 TSI HD
+http://200.229.147.142:8000/play/a04k/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.TV.Chile.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 182 TV Chile
+http://200.229.147.142:8000/play/a006/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.TVE.Internacional.(Televisión.Española).mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 183 TVE
+http://200.229.147.142:8000/play/a04l/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 184 UNE TV
+http://200.229.147.142:8000/play/a069/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 185 UNIVERSAL COMEDY HD
+http://200.229.147.142:8000/play/a03v/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 186 UNIVERSAL CRIME HD
+http://200.229.147.142:8000/play/a03u/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 187 UNIVERSAL PREMIERE HD
+http://200.229.147.142:8000/play/a03r/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 188 UNIVERSAL PREMIERE O HD
+http://200.229.147.142:8000/play/a03s/index.m3u8
+#EXTINF:0 group-title="TV" tvg-id="ext" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/small.395393765_UniversalReality-Oscuro.png.3bf4accf35b657d0e7e084feea1449af.png", 189 UNIVERSAL REALITY HD
+http://200.229.147.142:8000/play/a03t/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 190 UNIVISION MIAMI
+http://200.229.147.142:8000/play/a02i/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 191 UTV HONDURAS
+http://200.229.147.142:8000/play/a03a/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 192 Univision HD
+http://200.229.147.142:8000/play/a052/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 193 VE PLUS
+http://200.229.147.142:8000/play/a06i/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 194 ZooMoo
+http://200.229.147.142:8000/play/a003/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 195 Adult Swim
+http://148.230.149.45:1021/play/a03i/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.TLNovelas.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12531651.jpg", 196 TL NOVELAS
+http://181.129.212.251:9897/play/a0kj
+#EXTINF:1  group-title="TV" tvg-id="Canal.TNT.Series.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg", 197 TNT SERIES
+http://38.224.22.252:8000/play/a08e/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="Canal.TNT.Series.(México).mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901543.jpg", 198 TNT SERIES HD
+http://148.230.149.45:1021/play/a025/index.m3u8
+#EXTINF:0 group-title="MUSICALES" tvg-id="Canal.Bandamax.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12251440.jpg", 199 BANDAMAX
+http://200.229.147.142:8000/play/a07b/index.m3u8
+#EXTINF:1  group-title="MUSICALES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 200 Concert Channel
+http://200.229.147.142:8000/play/a04c/index.m3u8
+#EXTINF:1  group-title="MUSICALES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 201 EVO TV
+http://200.229.147.142:8000/play/a08d/index.m3u8
+#EXTINF:1  group-title="MUSICALES" tvg-id="Canal.Exa.TV.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 202 Exa TV
+http://200.229.147.142:8000/play/a03c/index.m3u8
+#EXTINF:1  group-title="MUSICALES" tvg-id="Canal.HTV.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 203 HTV
+http://200.229.147.142:8000/play/a02m/index.m3u8
+#EXTINF:1  group-title="MUSICALES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 204 MI Musica Regional
+http://200.229.147.142:8000/play/a07u/index.m3u8
+#EXTINF:1  group-title="MUSICALES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 205 MI Musica Regional
+http://200.229.147.142:8000/play/a07u/index.m3u8
+#EXTINF:1  group-title="MUSICALES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 206 MTV HD
+http://38.199.4.105:9999/play/a0ha/index.m3u8
+#EXTINF:1  group-title="MUSICALES" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 207 Mi Musica Reguaeton
+http://200.229.147.142:8000/play/a07z/index.m3u8
+#EXTINF:1  group-title="MUSICALES" tvg-id="Canal.Telehit.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 208 TELEHIT 
+http://200.229.147.142:8000/play/a07o/index.m3u8
+#EXTINF:1  group-title="MUSICALES" tvg-id="Canal.Telehit.Música.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 209 TELEHIT MUSICA 
+http://200.229.147.142:8000/play/a07e/index.m3u8
+#EXTINF:1  group-title="NOTICIAS" tvg-id="Canal.BBC.World.News.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 210 BBC News
+http://200.229.147.142:8000/play/a01k/index.m3u8
+#EXTINF:1  group-title="NOTICIAS" tvg-id="Canal.CNN.Internacional.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 211 CNN Internacional
+http://200.229.147.142:8000/play/a00c/index.m3u8
+#EXTINF:1  group-title="NOTICIAS" tvg-id="Canal.CNN.en.Español.mx" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 212 CNN ESPAÑOL
+http://200.229.147.142:8000/play/a01j/index.m3u8
+#EXTINF:1  group-title="NOTICIAS" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", 213 France24
+http://200.229.147.142:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 group-title="TV Latinos 4",
+#EXTINF:-1,FUTV
+http://45.163.139.42:8000/play/123/index.m3u8
+#EXTINF:-1,15-UCR HD
+http://45.163.139.42:8000/play/a035/index.m3u8
+#EXTINF:-1,CANAL 6 HD CR
+http://45.163.139.42:8000/play/a02o/index.m3u8
+#EXTINF:-1,Teletica HD
+http://45.163.139.42:8000/play/a02k/index.m3u8
+#EXTINF:-1,VM Latino
+http://45.163.139.42:8000/play/a03d/index.m3u8
+#EXTINF:-1,Adult Swim
+http://181.129.212.251:9897/play/a0ii
+#EXTINF:-1,Animal Planet
+http://181.129.212.251:9897/play/a0hm
+#EXTINF:-1,Baby TV
+http://181.129.212.251:9897/play/a0h8
+#EXTINF:-1,CANAL 1
+http://181.129.212.251:9897/play/a0gf
+#EXTINF:-1,CANAL INSTITUCIONAL
+http://181.129.212.251:9897/play/a0ge
+#EXTINF:-1,CARACOL TV HD
+http://181.129.212.251:9897/play/a0k3
+#EXTINF:-1,CNN Espaæol
+http://181.129.212.251:9897/play/a08l
+#EXTINF:-1,Capital
+http://181.129.212.251:9897/play/a0k1
+#EXTINF:-1,Cartoon Network HD
+http://181.129.212.251:9897/play/a0ku
+#EXTINF:-1,Cartoonito
+http://181.129.212.251:9897/play/a0kn
+#EXTINF:-1,City TV
+http://181.129.212.251:9897/play/a0k0
+#EXTINF:-1,De PelŦcula
+http://181.129.212.251:9897/play/a0jg
+#EXTINF:-1,Discovery Channel  HD
+http://181.129.212.251:9897/play/a0gy
+#EXTINF:-1,Discovery Kids HD
+http://181.129.212.251:9897/play/a0kx
+#EXTINF:-1,Discovery Science
+http://181.129.212.251:9897/play/a0fn
+#EXTINF:-1,Discovery Theater HD
+http://181.129.212.251:9897/play/a071
+#EXTINF:-1,Discovery Turbo
+http://181.129.212.251:9897/play/a0i5
+#EXTINF:-1,Discovery World HD
+http://181.129.212.251:9897/play/a0h2
+#EXTINF:-1,Disney HD
+http://181.129.212.251:9897/play/a0gx
+#EXTINF:-1,ET Canal El Tiempo
+http://181.129.212.251:9897/play/a0iz
+#EXTINF:-1,EWTN
+http://181.129.212.251:9897/play/a0ip
+#EXTINF:-1,El Gourmet HD
+http://181.129.212.251:9897/play/a0hb
+#EXTINF:-1,Enlace
+http://181.129.212.251:9897/play/a0ib
+#EXTINF:-1,FX HD
+http://181.129.212.251:9897/play/a087
+#EXTINF:-1,Film&Arts
+http://181.129.212.251:9897/play/a0ik
+#EXTINF:-1,Food Network
+http://181.129.212.251:9897/play/a0kw
+#EXTINF:-1,Golden Edge
+http://181.129.212.251:9897/play/a0iv
+#EXTINF:-1,Golden HD
+http://181.129.212.251:9897/play/a09c
+#EXTINF:-1,HGTV
+http://181.129.212.251:9897/play/a05k
+#EXTINF:-1,HOGAR TV
+http://181.129.212.251:9897/play/a0jn
+#EXTINF:-1,History 2
+http://181.129.212.251:9897/play/a09f
+#EXTINF:-1,History Channel HD
+http://181.129.212.251:9897/play/a0ho
+#EXTINF:-1,Home & Health HD
+http://181.129.212.251:9897/play/a0kv
+#EXTINF:-1,ID HD
+http://181.129.212.251:9897/play/a0hr
+#EXTINF:-1,Kanal D Drama
+http://181.129.212.251:9897/play/a0iy
+#EXTINF:-1,LA KALLE
+http://181.129.212.251:9897/play/a0fy
+#EXTINF:-1,Lifetime
+http://181.129.212.251:9897/play/a0fo
+#EXTINF:-1,Love Nature
+http://181.129.212.251:9897/play/a0dc
+#EXTINF:-1,MTV 
+http://181.129.212.251:9897/play/a0hw
+#EXTINF:-1,NTN 24 Horas
+http://181.129.212.251:9897/play/a09u
+#EXTINF:-1,Nick HD
+http://181.129.212.251:9897/play/a07c
+#EXTINF:-1,Pasiones HD
+http://181.129.212.251:9897/play/a074
+#EXTINF:-1,RUMBA TV
+http://181.129.212.251:9897/play/a0jo
+#EXTINF:-1,SEÑAL COLOMBIA
+http://181.129.212.251:9897/play/a0gd
+#EXTINF:-1,TCM
+http://181.129.212.251:9897/play/a0il
+#EXTINF:-1,TELECAFE
+http://181.129.212.251:9897/play/a0gj
+#EXTINF:-1,TELENOSTALGIA
+http://181.129.212.251:9897/play/a0jp
+#EXTINF:-1,TLC
+http://181.129.212.251:9897/play/a0fm
+#EXTINF:-1,TNT HD
+http://181.129.212.251:9897/play/a0gm
+#EXTINF:-1,TNT Novelas
+http://181.129.212.251:9897/play/a0hv
+#EXTINF:-1,TNT Series HD
+http://181.129.212.251:9897/play/a0hi
+#EXTINF:-1,TRO
+http://181.129.212.251:9897/play/a0jy
+#EXTINF:-1,TV AGRO
+http://181.129.212.251:9897/play/a0jm
+#EXTINF:-1,Teleamazonas
+http://181.129.212.251:9897/play/a08e
+#EXTINF:-1,Teleantioquia
+http://181.129.212.251:9897/play/a0k5
+#EXTINF:-1,Telecaribe
+http://181.129.212.251:9897/play/a0k8
+#EXTINF:-1,Teleislas
+http://181.129.212.251:9897/play/a0jz
+#EXTINF:-1,Telemundo
+http://181.129.212.251:9897/play/a0i0
+#EXTINF:-1,Telepacifico
+http://181.129.212.251:9897/play/a0k7
+#EXTINF:-1,Tlnovelas 
+http://181.129.212.251:9897/play/a0kj
+#EXTINF:-1,Tooncast
+http://181.129.212.251:9897/play/a0ih
+#EXTINF:-1,Trece
+http://181.129.212.251:9897/play/a0ka
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.129.212.251:9897/play/a0hu
+#EXTINF:-1,Warner Channel HD
+http://181.129.212.251:9897/play/a0gp
+
+#EXTINF:-1 group-title="TV Latinos 6",
+#EXTINF:-1,11 Repretel
+http://38.224.22.252:8000/play/a01o/index.m3u8
+#EXTINF:-1,13 Sinart
+http://38.224.22.252:8000/play/a057/index.m3u8
+#EXTINF:-1,4 Repretel
+http://38.224.22.252:8000/play/a06x/index.m3u8
+#EXTINF:-1,Extra TV 42
+http://38.224.22.252:8000/play/a058/index.m3u8
+#EXTINF:-1,6 Repretel
+http://38.224.22.252:8000/play/a01n/index.m3u8
+#EXTINF:-1,A&E HD
+http://38.224.22.252:8000/play/a036/index.m3u8
+#EXTINF:-1,AMC HD
+http://38.224.22.252:8000/play/a037/index.m3u8
+#EXTINF:-1,AXN HD
+http://38.224.22.252:8000/play/a02w/index.m3u8
+#EXTINF:-1,AZ click HD
+http://38.224.22.252:8000/play/a03d/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://38.224.22.252:8000/play/a033/index.m3u8
+#EXTINF:-1,Antena 3
+http://38.224.22.252:8000/play/a00b/index.m3u8
+#EXTINF:-1,A3Series
+http://38.224.22.252:8000/play/a00h/index.m3u8
+#EXTINF:-1,Azcorazon
+http://38.224.22.252:8000/play/a00y/index.m3u8
+#EXTINF:-1,Azteca Internacional
+http://38.224.22.252:8000/play/a06z/index.m3u8
+#EXTINF:-1,Azteca Deportes
+http://38.224.22.252:8000/play/a016/index.m3u8
+#EXTINF:-1,BBC News
+http://38.224.22.252:8000/play/a01d/index.m3u8
+#EXTINF:-1,Baby First
+http://38.224.22.252:8000/play/a01p/index.m3u8
+#EXTINF:-1,Baby TV
+http://38.224.22.252:8000/play/a008/index.m3u8
+#EXTINF:-1,CANAL 13 NI
+http://38.224.22.252:8000/play/a01m/index.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://38.224.22.252:8000/play/a05f/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://38.224.22.252:8000/play/a07d/index.m3u8
+#EXTINF:-1,CNBC
+http://38.224.22.252:8000/play/a02t/index.m3u8
+#EXTINF:-1,CNN Internacional
+http://38.224.22.252:8000/play/a00j/index.m3u8
+#EXTINF:-1,CNNE
+http://38.224.22.252:8000/play/a01c/index.m3u8
+#EXTINF:-1,Canal 10 ESA
+http://38.224.22.252:8000/play/a00g/index.m3u8
+#EXTINF:-1,Canal 10 HD ESA
+http://38.224.22.252:8000/play/a00k/index.m3u8
+#EXTINF:-1,Canal 14 NIC
+http://38.224.22.252:8000/play/a01k/index.m3u8
+#EXTINF:-1,Canal 4 NIC
+http://38.224.22.252:8000/play/a029/index.m3u8
+#EXTINF:-1,Canal 4 HD ESA
+http://38.224.22.252:8000/play/a00l/index.m3u8
+#EXTINF:-1,Canal 6 NI
+http://38.224.22.252:8000/play/a01l/index.m3u8
+#EXTINF:-1,Canal 7 HD CR
+http://38.224.22.252:8000/play/a030/index.m3u8
+#EXTINF:-1,Canal 8 NIC
+http://38.224.22.252:8000/play/a01j/index.m3u8
+#EXTINF:-1,Canal 8 TNH HN
+http://38.224.22.252:8000/play/a007/index.m3u8
+#EXTINF:-1,Azteca GUATE
+http://38.224.22.252:8000/play/a06v/index.m3u8
+#EXTINF:-1,Canal Claro HD
+http://38.224.22.252:8000/play/a05e/index.m3u8
+#EXTINF:-1,Caracol Int
+http://38.224.22.252:8000/play/a02e/index.m3u8
+#EXTINF:-1,Cartoonito
+http://38.224.22.252:8000/play/a00u/index.m3u8
+#EXTINF:-1,Cine Latino
+http://38.224.22.252:8000/play/a02p/index.m3u8
+#EXTINF:-1,CineCanal
+http://38.224.22.252:8000/play/a02s/index.m3u8
+#EXTINF:-1,CineMax
+http://38.224.22.252:8000/play/a02q/index.m3u8
+#EXTINF:-1,Claro Sports 1 HD
+http://38.224.22.252:8000/play/a05c/index.m3u8
+#EXTINF:-1,Claro Sports 2 HD
+http://38.224.22.252:8000/play/a05d/index.m3u8
+#EXTINF:-1,Concert Channel
+http://38.224.22.252:8000/play/a02m/index.m3u8
+#EXTINF:-1,DHE HD
+http://38.224.22.252:8000/play/a03c/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://38.224.22.252:8000/play/a08f/index.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://38.224.22.252:8000/play/a02g/index.m3u8
+#EXTINF:-1,Discovery ID HD
+http://38.224.22.252:8000/play/a08j/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://38.224.22.252:8000/play/a00o/index.m3u8
+#EXTINF:-1,Discovery Science
+http://38.224.22.252:8000/play/a00e/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://38.224.22.252:8000/play/a02f/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://38.224.22.252:8000/play/a08g/index.m3u8
+#EXTINF:-1,Disney
+http://38.224.22.252:8000/play/a02c/index.m3u8
+#EXTINF:-1,Disney JR
+http://38.224.22.252:8000/play/a00v/index.m3u8
+#EXTINF:-1,E! Entertairment HD
+http://38.224.22.252:8000/play/a034/index.m3u8
+#EXTINF:-1,ESPN HD
+http://38.224.22.252:8000/play/a089/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://38.224.22.252:8000/play/a08a/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://38.224.22.252:8000/play/a08b/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://38.224.22.252:8000/play/a01i/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://38.224.22.252:8000/play/a02y/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://38.224.22.252:8000/play/a08c/index.m3u8
+#EXTINF:-1,EURO Channel
+http://38.224.22.252:8000/play/a01s/index.m3u8
+#EXTINF:-1,EWTN
+http://38.224.22.252:8000/play/a01f/index.m3u8
+#EXTINF:-1,El Gourmet
+http://38.224.22.252:8000/play/a01u/index.m3u8
+#EXTINF:-1,Estrella TV
+http://38.224.22.252:8000/play/a011/index.m3u8
+#EXTINF:-1,Europa HD
+http://38.224.22.252:8000/play/a03a/index.m3u8
+#EXTINF:-1,FUTV HD CR
+http://38.224.22.252:8000/play/a07j/index.m3u8
+#EXTINF:-1,FX
+http://38.224.22.252:8000/play/a01q/index.m3u8
+#EXTINF:-1,FX HD
+http://38.224.22.252:8000/play/a039/index.m3u8
+#EXTINF:-1,Film & arts HD
+http://38.224.22.252:8000/play/a035/index.m3u8
+#EXTINF:-1,Food Network
+http://38.224.22.252:8000/play/a02i/index.m3u8
+#EXTINF:-1,Golden
+http://38.224.22.252:8000/play/a024/index.m3u8
+#EXTINF:-1,Golf Channel HD
+http://38.224.22.252:8000/play/a03f/index.m3u8
+#EXTINF:-1,H2
+http://38.224.22.252:8000/play/a01t/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://38.224.22.252:8000/play/a05j/index.m3u8
+#EXTINF:-1,HBO HD
+http://38.224.22.252:8000/play/a05g/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://38.224.22.252:8000/play/a05i/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://38.224.22.252:8000/play/a05k/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://38.224.22.252:8000/play/a05h/index.m3u8
+#EXTINF:-1,Golden Premiere HD
+http://38.224.22.252:8000/play/a00q/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD
+http://38.224.22.252:8000/play/a00r/index.m3u8
+#EXTINF:-1,HTV
+http://38.224.22.252:8000/play/a023/index.m3u8
+#EXTINF:-1,History HD
+http://38.224.22.252:8000/play/a01g/index.m3u8
+#EXTINF:-1,Hola!TV
+http://38.224.22.252:8000/play/a00f/index.m3u8
+#EXTINF:-1,Home Garden Latino
+http://38.224.22.252:8000/play/a00d/index.m3u8
+#EXTINF:-1,ID
+http://38.224.22.252:8000/play/a02h/index.m3u8
+#EXTINF:-1,LIFE TIME
+http://38.224.22.252:8000/play/a014/index.m3u8
+#EXTINF:-1,Latin America Sport
+http://38.224.22.252:8000/play/a020/index.m3u8
+#EXTINF:-1,AMC Series
+http://38.224.22.252:8000/play/a00a/index.m3u8
+#EXTINF:-1,Multicinema
+http://38.224.22.252:8000/play/a026/index.m3u8
+#EXTINF:-1,Multimedios
+http://38.224.22.252:8000/play/a056/index.m3u8
+#EXTINF:-1,Multipremier
+http://38.224.22.252:8000/play/a02o/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://38.224.22.252:8000/play/a07k/index.m3u8
+#EXTINF:-1,Max Anime
+http://38.224.22.252:8000/play/a00t/index.m3u8
+#EXTINF:-1,OPA CR
+http://38.224.22.252:8000/play/a07h/index.m3u8
+#EXTINF:-1,PXTV
+http://38.224.22.252:8000/play/a01z/index.m3u8
+#EXTINF:-1,A3cine
+http://38.224.22.252:8000/play/a05b/index.m3u8
+#EXTINF:-1,Cine Premium
+http://38.224.22.252:8000/play/a08d/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://38.224.22.252:8000/play/a08h/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://38.224.22.252:8000/play/a01r/index.m3u8
+#EXTINF:-1,RHEMA TV
+http://38.224.22.252:8000/play/a02v/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://38.224.22.252:8000/play/a00w/index.m3u8
+#EXTINF:-1,SONY HD
+http://38.224.22.252:8000/play/a07c/index.m3u8
+#EXTINF:-1,SPACE HD
+http://38.224.22.252:8000/play/a02x/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://38.224.22.252:8000/play/a07a/index.m3u8
+#EXTINF:-1,Sembrador
+http://38.224.22.252:8000/play/a027/index.m3u8
+#EXTINF:-1,Sin Limites
+http://38.224.22.252:8000/play/a021/index.m3u8
+#EXTINF:-1,Sony Movies HD
+http://38.224.22.252:8000/play/a03b/index.m3u8
+#EXTINF:-1,Star TVE HD
+http://38.224.22.252:8000/play/a03e/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://38.224.22.252:8000/play/a032/index.m3u8
+#EXTINF:-1,Sun Channel
+http://38.224.22.252:8000/play/a01v/index.m3u8
+#EXTINF:-1,TBN Enlace
+http://38.224.22.252:8000/play/a01e/index.m3u8
+#EXTINF:-1,TCM
+http://38.224.22.252:8000/play/a025/index.m3u8
+#EXTINF:-1,TD+2 HD CR
+http://38.224.22.252:8000/play/a00n/index.m3u8
+#EXTINF:-1,TD+HD CR
+http://38.224.22.252:8000/play/a00m/index.m3u8
+#EXTINF:-1,TLC
+http://38.224.22.252:8000/play/a077/index.m3u8
+#EXTINF:-1,TNT
+http://38.224.22.252:8000/play/a01a/index.m3u8
+#EXTINF:-1,TNT Novelas
+http://38.224.22.252:8000/play/a012/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://38.224.22.252:8000/play/a08e/index.m3u8
+#EXTINF:-1,TV Chile
+http://38.224.22.252:8000/play/a00c/index.m3u8
+#EXTINF:-1,TVE
+http://38.224.22.252:8000/play/a02u/index.m3u8
+#EXTINF:-1,Telemundo HD
+http://38.224.22.252:8000/play/a038/index.m3u8
+#EXTINF:-1,Tigo Sports
+http://38.224.22.252:8000/play/a08q/index.m3u8
+#EXTINF:-1,Tooncast
+http://38.224.22.252:8000/play/a06y/index.m3u8
+#EXTINF:-1,Trivision 36
+http://38.224.22.252:8000/play/a08r/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA HD
+http://38.224.22.252:8000/play/a07i/index.m3u8
+#EXTINF:-1,Universal
+http://38.224.22.252:8000/play/a02n/index.m3u8
+#EXTINF:-1,Univision HD
+http://38.224.22.252:8000/play/a08i/index.m3u8
+#EXTINF:-1,WARNER HD
+http://38.224.22.252:8000/play/a07b/index.m3u8
+#EXTINF:-1,ZooMoo
+http://38.224.22.252:8000/play/a07g/index.m3u8
