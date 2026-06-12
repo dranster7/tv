@@ -826,3 +826,27 @@ http://38.224.22.252:8000/play/a08i/index.m3u8
 http://38.224.22.252:8000/play/a07b/index.m3u8
 #EXTINF:-1,ZooMoo
 http://38.224.22.252:8000/play/a07g/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVY6YiObIsLLJ5kycMhk_nvb2TviId7FDpg&s", DSPORTS HD
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVY6YiObIsLLJ5kycMhk_nvb2TviId7FDpg&s", DSPORTS (PE)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyyqNLcyJTg0EcJKlqsIgaiEkwVc_de3Zojw&s", MOVISTAR DEPORTES
+http://190.234.82.52:8000/play/ac1q/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="fox-sports-2.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyyqNLcyJTg0EcJKlqsIgaiEkwVc_de3Zojw&s", MOVISTAR DEPORTES
+http://190.234.82.52:8000/play/ac1q/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg", ESPN PREMIUM HD
+http://209.45.101.155:8000/play/a01f
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmk1u87lGCJSEZmNqK3IMabSwmoF-OqcSNQ&s", SKY SPORT
+http://181.78.109.48:9998/play/a06r/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmk1u87lGCJSEZmNqK3IMabSwmoF-OqcSNQ&s", SKY SPORT
+http://45.5.119.43:4000/play/a05r/index.m3u8
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSx3NpucqooQr1KlM1dXsPt5FCmNJ5OLqDKA&s", BEIN SPORTS
+http://200.59.188.3:8000/play/a0cm
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSx3NpucqooQr1KlM1dXsPt5FCmNJ5OLqDKA&s", BEIN SPORTS
+http://200.69.80.179:5050/play/a0m3/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", TUDN
+http://190.83.9.222:8000/play/ca040/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4-PMCJ9Vutg_mvVJTojFGygxqR2WwebD9w&s", WIN SPORTS
+http://181.78.71.71:18000/play/a03p/index.m3u8
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4-PMCJ9Vutg_mvVJTojFGygxqR2WwebD9w&s", WIN SPORTS
+http://181.78.71.71:18000/play/a03p/index.m3u8
