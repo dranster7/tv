@@ -17,7 +17,7 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://www.tvcuatro.com/images/deportes-02.png",8  TVCUATRO 4.3
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",9  MULTIMEDIOS BAJIO
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus.png",9  MULTIMEDIOS BAJIO
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 #EXTINF:1  group-title="NOTICIAS" tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleformula-mediano.png",10  TELEFORMULA MX
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
@@ -25,11 +25,11 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="" tvg-logo="https://rndserv.xyz/img/milenio.png",12  MILENIO MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",13  FOX SPORTS (MX)
+#EXTINF:0 tvg-id="FoxSports.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",13  FOX SPORTS (MX)
 http://200.115.96.66:4000/play/a0jx/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",14 166 FOX DEPORTES EN TUBI
+#EXTINF:0 tvg-id="FoxSports.mx" group-title="DEPORTES" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg",14 166 FOX DEPORTES EN TUBI
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",15  TUDN
+#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",15  TUDN
 http://190.83.9.222:8000/play/ca040/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",16 AZTECA UNO
 http://148.230.149.45:1021/play/a002/index.m3u8
@@ -39,7 +39,7 @@ http://148.230.149.45:1021/play/a01z/index.m3u8
 http://148.230.149.45:1021/play/a020/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",19 CANAL 5 MX
 http://148.230.149.45:1021/play/a00s/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",20 MULTIMEDIOS
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus.png",20 MULTIMEDIOS
 http://148.230.149.45:1021/play/a00t/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",21 AZTECA 7 
 http://148.230.149.45:1021/play/a021/index.m3u8
@@ -515,7 +515,7 @@ http://201.207.54.159:8000/play/a02u/index.m3u8
 http://201.207.54.159:8000/play/a046/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",257 MULTICINEMA
 http://201.207.54.159:8000/play/a04c/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",258 MULTIMEDIOS
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus.png",258 MULTIMEDIOS
 http://201.207.54.159:8000/play/a06f/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",259 MULTIPREMIER
 http://201.207.54.159:8000/play/a063/index.m3u8
@@ -727,7 +727,7 @@ http://201.190.41.246:8822/play/a01c/index.m3u8
 http://201.190.41.246:8822/play/a00k/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",363 MAX ANIME
 http://201.190.41.246:8822/play/a02n/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",364 MULTIMEDIOS
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus.png",364 MULTIMEDIOS
 http://201.190.41.246:8822/play/a03c/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",365 MULTIPREMIER
 http://201.190.41.246:8822/play/a00n/index.m3u8
