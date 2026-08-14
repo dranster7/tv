@@ -2,15 +2,15 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",1 AZTECA UNO
-http://38.44.109.41:8003/play/a033/index.m3u8
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",2 AZTECA UNO
-http://148.230.149.45:1021/play/a002/index.m3u8
+http://209.14.115.253:8000/play/a09r/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",3 LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",4 LAS ESTRELLAS HD
 http://201.190.41.246:8822/play/a021/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",5 CANAL 5 HD
-http://148.230.149.45:1021/play/a070/index.m3u8
+http://45.181.87.106/CANAL5HD/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",6 CANAL 5 MX
 http://148.230.149.45:1021/play/a00s/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",7 AZTECA 7
