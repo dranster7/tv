@@ -2,25 +2,25 @@
 #EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
 
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",01 AZTECA UNO
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",02 AZTECA UNO
-http://209.14.115.253:8000/play/a09r/index.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",03 LAS ESTRELLAS
+http://209.87.175.160:5001/play/a0cc/index.m3u8?hls
+#EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",02 LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",04 LAS ESTRELLAS HD
+#EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",03 LAS ESTRELLAS HD
 http://201.190.41.246:8822/play/a021/index.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",05 CANAL 5 HD
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",04 CANAL 5 HD
 http://45.181.87.106/CANAL5HD/index.m3u8
+#EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",05 CANAL 5 MX
+http://209.87.175.160:5001/play/a0fl/index.m3u8?hls
 #EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",06 CANAL 5 MX
-http://148.230.149.45:1021/play/a00s/index.m3u8
+http://209.87.175.160:5001/play/a0ll/index.m3u8?hls
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",07 AZTECA 7
-http://148.230.149.45:1021/play/a072/index.m3u8
+http://209.87.175.160:5001/play/a0fm/index.m3u8?hls
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",08 AZTECA 7 HD
-http://148.230.149.45:1021/play/a072/index.m3u8
+http://209.87.175.160:5001/play/a0me/index.m3u8?hls
 #EXTINF:1 group-title="NACIONALES" tvg-id="" tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png",09 IMAGEN TV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:1 group-title="NACIONALES" tvg-id="" tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png",010 IMAGEN TV
-http://148.230.149.45:1021/play/a020/index.m3u8
+http://209.87.175.160:5001/play/a0d5/index.m3u8?hls
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://www.tvcuatro.com/images/noticias-01.png",011 TVCUATRO 4.1 
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://www.tvcuatro.com/images/cultura-01.png",012 TVCUATRO 4.2
