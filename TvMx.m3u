@@ -8,11 +8,11 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",03 LAS ESTRELLAS HD
 http://201.190.41.246:8822/play/a021/index.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",04 CANAL 5 HD
-http://45.181.87.106/CANAL5HD/index.m3u8
+http://liontv.es:8080/ALVARADO2023/RENE2023/785977
 #EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",05 CANAL 5 MX
-http://209.87.175.160:5001/play/a0fl/index.m3u8?hls
+http://liontv.es:8080/ALVARADO2023/RENE2023/785978
 #EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",06 CANAL 5 MX
-http://209.87.175.160:5001/play/a0ll/index.m3u8?hls
+http://liontv.es:8080/ALVARADO2023/RENE2023/347294
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",07 AZTECA 7
 http://209.87.175.160:5001/play/a0fm/index.m3u8?hls
 #EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",08 AZTECA 7 HD
