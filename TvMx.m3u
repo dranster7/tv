@@ -1,50 +1,3 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
-#EXTM3U list-name="Canales M3U" list-image="https://icon-library.com/images/dish-tv-icon/dish-tv-icon-8.jpg"
-
-#EXTINF:1  group-title="NACIONALES" tvg-id="azteca13.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg",01 AZTECA UNO
-http://187.245.231.226:8000/play/a0ux/index.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",02 LAS ESTRELLAS
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="226dtv.cl" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg",03 LAS ESTRELLAS
-http://187.245.231.226:8000/play/a0v7/index.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",04 CANAL 5 HD
-http://45.5.118.152:8000/play/a03i/index.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="canal5.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11083966.jpg",05 CANAL 5 HD
-http://187.245.231.226:8000/play/a0uu/index.m3u8
-#EXTINF:1  group-title="NACIONALES" tvg-id="azteca7.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/14122235.jpg",06 AZTECA 7
-http://187.245.231.226:8000/play/a0uw/index.m3u8
-#EXTINF:1 group-title="NACIONALES" tvg-id="" tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png",07 IMAGEN TV
-https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://www.tvcuatro.com/images/noticias-01.png",08 TVCUATRO 4.1 
-https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://www.tvcuatro.com/images/deportes-02.png",09 TVCUATRO 4.3
-https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus.png",010 MULTIMEDIOS
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus.png",011 MULTIMEDIOS
-http://201.207.54.159:8000/play/a06f/index.m3u8
-#EXTINF:1  group-title="NOTICIAS" tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/teleformula-mediano.png",012 TELEFORMULA
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 group-title="NOTICIAS" tvg-id="" tvg-logo="https://i.imgur.com/Og17U9N.png",013 ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="NOTICIAS" tvg-id="" tvg-logo="https://rndserv.xyz/img/milenio.png",014 MILENIO
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVY6YiObIsLLJ5kycMhk_nvb2TviId7FDpg&s",015 DSPORTS
-http://181.78.8.199:8000/play/a0cc/index.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyyqNLcyJTg0EcJKlqsIgaiEkwVc_de3Zojw&s",016 MOVISTAR DEPORTES
-http://190.234.82.52:8000/play/ac1q/index.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyyqNLcyJTg0EcJKlqsIgaiEkwVc_de3Zojw&s",017 MOVISTAR DEPORTES
-http://190.234.82.52:8000/play/ac1q/index.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4-PMCJ9Vutg_mvVJTojFGygxqR2WwebD9w&s",018 WIN SPORTS
-http://181.78.71.71:18000/play/a03p/index.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4-PMCJ9Vutg_mvVJTojFGygxqR2WwebD9w&s",019 WIN SPORTS
-http://181.78.71.71:18000/play/a03p/index.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4-PMCJ9Vutg_mvVJTojFGygxqR2WwebD9w&s",020 WIN SPORT HD
-http://181.78.71.71:18000/play/a03p/index.m3u8
-#EXTINF:1  group-title="DEPORTES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4-PMCJ9Vutg_mvVJTojFGygxqR2WwebD9w&s",021 WIN SPORT HD
-http://181.78.71.71:18000/play/a03p/index.m3u8
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1024px-Claro_Sports_logo.svg.png",022 CLARO SPORTS 1 HD
-http://201.207.54.159:8000/play/a06l/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",023 CLARO SPORTS 2 HD
 http://201.207.54.159:8000/play/a06m/index.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="espn.mx" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png",024 ESPN1(MX) HD
@@ -63,11 +16,11 @@ http://168.228.44.241:9997/play/a067/index.m3u8
 http://45.181.120.65:9087/play/057/index.m3u8
 #EXTINF:1  group-title="DEPORTES" tvg-id="tntsports2.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png",031 TNTSPORT PREMIUM HD
 http://186.33.40.97:8789/play/79
-IMG,032 CHESPIRITO TV
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",032 CHESPIRITO TV
 https://live20.bozztv.com/giatvplayout7/giatv-211111/tracks-v1a1/mono.ts.m3u8
-IMG,033 CHAVO DEL 8 24/7
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",033 CHAVO DEL 8 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
-IMG,034 EL SEÑOR DE LOS CIELOS 24/7
+#EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",034 EL SEÑOR DE LOS CIELOS 24/7
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:1  group-title="TV" tvg-id="" tvg-logo="https://t4.ftcdn.net/jpg/03/37/25/75/240_F_337257571_wcTkYqr3eN2OlitWJZqOSGowliZeXBCK.jpg",035 EL REINO INFANTIL
 https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
